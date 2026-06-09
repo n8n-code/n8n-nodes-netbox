@@ -11,14 +11,14 @@ import { wirelessDescription } from './resources/wireless';
 
 export class Netbox implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'netbox',
+		displayName: 'Netbox',
 		name: 'N8nDevNetbox',
 		icon: { light: 'file:./netbox.svg', dark: 'file:./netbox.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'API to access NetBox',
-		defaults: { name: 'netbox' },
+		defaults: { name: 'Netbox' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

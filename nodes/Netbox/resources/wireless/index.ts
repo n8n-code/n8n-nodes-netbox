@@ -405,7 +405,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -605,7 +605,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id",
+			"displayName": "Parent ID",
 			"name": "parent_id",
 			"description": "",
 			"default": "",
@@ -655,7 +655,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -680,7 +680,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -705,7 +705,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -730,7 +730,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -755,7 +755,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -1805,7 +1805,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id N",
+			"displayName": "Parent ID N",
 			"name": "parent_id__n",
 			"description": "",
 			"default": "",
@@ -2094,7 +2094,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -2240,7 +2240,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -2452,7 +2452,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -2598,7 +2598,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -2810,7 +2810,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -2956,7 +2956,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -3256,7 +3256,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -3402,7 +3402,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -3614,7 +3614,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -3760,7 +3760,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -3896,7 +3896,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -4096,7 +4096,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id",
+			"displayName": "Tenant Group ID",
 			"name": "tenant_group_id",
 			"description": "",
 			"default": "",
@@ -4146,7 +4146,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -4196,7 +4196,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Group Id",
+			"displayName": "Group ID",
 			"name": "group_id",
 			"description": "",
 			"default": "",
@@ -4271,7 +4271,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Vlan Id",
+			"displayName": "Vlan ID",
 			"name": "vlan_id",
 			"description": "",
 			"default": "",
@@ -4346,7 +4346,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -4371,7 +4371,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -4396,7 +4396,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -4421,7 +4421,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -4446,7 +4446,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -5496,7 +5496,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id N",
+			"displayName": "Tenant Group ID N",
 			"name": "tenant_group_id__n",
 			"description": "",
 			"default": "",
@@ -5546,7 +5546,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -5596,7 +5596,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Group Id N",
+			"displayName": "Group ID N",
 			"name": "group_id__n",
 			"description": "",
 			"default": "",
@@ -5671,7 +5671,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Vlan Id N",
+			"displayName": "Vlan ID N",
 			"name": "vlan_id__n",
 			"description": "",
 			"default": "",
@@ -6113,7 +6113,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -6276,7 +6276,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -6616,7 +6616,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -6779,7 +6779,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -7119,7 +7119,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -7282,7 +7282,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -7710,7 +7710,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -7873,7 +7873,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -8213,7 +8213,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -8376,7 +8376,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -8512,7 +8512,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -8712,7 +8712,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id",
+			"displayName": "Tenant Group ID",
 			"name": "tenant_group_id",
 			"description": "",
 			"default": "",
@@ -8762,7 +8762,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -8812,7 +8812,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface A Id",
+			"displayName": "Interface A ID",
 			"name": "interface_a_id",
 			"description": "",
 			"default": "",
@@ -8837,7 +8837,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface B Id",
+			"displayName": "Interface B ID",
 			"name": "interface_b_id",
 			"description": "",
 			"default": "",
@@ -8937,7 +8937,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -8962,7 +8962,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -8987,7 +8987,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -9012,7 +9012,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -9037,7 +9037,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -10087,7 +10087,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id N",
+			"displayName": "Tenant Group ID N",
 			"name": "tenant_group_id__n",
 			"description": "",
 			"default": "",
@@ -10137,7 +10137,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -10187,7 +10187,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface A Id N",
+			"displayName": "Interface A ID N",
 			"name": "interface_a_id__n",
 			"description": "",
 			"default": "",
@@ -10212,7 +10212,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface A Id Lte",
+			"displayName": "Interface A ID Lte",
 			"name": "interface_a_id__lte",
 			"description": "",
 			"default": "",
@@ -10237,7 +10237,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface A Id Lt",
+			"displayName": "Interface A ID Lt",
 			"name": "interface_a_id__lt",
 			"description": "",
 			"default": "",
@@ -10262,7 +10262,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface A Id Gte",
+			"displayName": "Interface A ID Gte",
 			"name": "interface_a_id__gte",
 			"description": "",
 			"default": "",
@@ -10287,7 +10287,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface A Id Gt",
+			"displayName": "Interface A ID Gt",
 			"name": "interface_a_id__gt",
 			"description": "",
 			"default": "",
@@ -10312,7 +10312,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface B Id N",
+			"displayName": "Interface B ID N",
 			"name": "interface_b_id__n",
 			"description": "",
 			"default": "",
@@ -10337,7 +10337,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface B Id Lte",
+			"displayName": "Interface B ID Lte",
 			"name": "interface_b_id__lte",
 			"description": "",
 			"default": "",
@@ -10362,7 +10362,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface B Id Lt",
+			"displayName": "Interface B ID Lt",
 			"name": "interface_b_id__lt",
 			"description": "",
 			"default": "",
@@ -10387,7 +10387,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface B Id Gte",
+			"displayName": "Interface B ID Gte",
 			"name": "interface_b_id__gte",
 			"description": "",
 			"default": "",
@@ -10412,7 +10412,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Interface B Id Gt",
+			"displayName": "Interface B ID Gt",
 			"name": "interface_b_id__gt",
 			"description": "",
 			"default": "",
@@ -10855,7 +10855,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -11063,7 +11063,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -11355,7 +11355,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -11563,7 +11563,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -11855,7 +11855,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -12063,7 +12063,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -12443,7 +12443,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -12651,7 +12651,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -12943,7 +12943,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -13151,7 +13151,7 @@ export const wirelessDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",

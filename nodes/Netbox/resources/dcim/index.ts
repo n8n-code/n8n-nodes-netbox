@@ -4641,7 +4641,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -4741,7 +4741,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination Id",
+			"displayName": "Termination ID",
 			"name": "termination_id",
 			"description": "",
 			"default": "",
@@ -4766,7 +4766,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -4791,7 +4791,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -4816,7 +4816,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -4841,7 +4841,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -4866,7 +4866,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -4966,7 +4966,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination Id N",
+			"displayName": "Termination ID N",
 			"name": "termination_id__n",
 			"description": "",
 			"default": "",
@@ -4991,7 +4991,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination Id Lte",
+			"displayName": "Termination ID Lte",
 			"name": "termination_id__lte",
 			"description": "",
 			"default": "",
@@ -5016,7 +5016,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination Id Lt",
+			"displayName": "Termination ID Lt",
 			"name": "termination_id__lt",
 			"description": "",
 			"default": "",
@@ -5041,7 +5041,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination Id Gte",
+			"displayName": "Termination ID Gte",
 			"name": "termination_id__gte",
 			"description": "",
 			"default": "",
@@ -5066,7 +5066,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination Id Gt",
+			"displayName": "Termination ID Gt",
 			"name": "termination_id__gt",
 			"description": "",
 			"default": "",
@@ -5294,7 +5294,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -5343,7 +5343,7 @@ export const dcimDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Termination Id",
+			"displayName": "Termination ID",
 			"name": "termination_id",
 			"type": "number",
 			"default": 0,
@@ -5392,7 +5392,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -5544,7 +5544,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -5593,7 +5593,7 @@ export const dcimDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Termination Id",
+			"displayName": "Termination ID",
 			"name": "termination_id",
 			"type": "number",
 			"default": 0,
@@ -5642,7 +5642,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -5794,7 +5794,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -5843,7 +5843,7 @@ export const dcimDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Termination Id",
+			"displayName": "Termination ID",
 			"name": "termination_id",
 			"type": "number",
 			"default": 0,
@@ -5892,7 +5892,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -6132,7 +6132,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -6181,7 +6181,7 @@ export const dcimDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Termination Id",
+			"displayName": "Termination ID",
 			"name": "termination_id",
 			"type": "number",
 			"default": 0,
@@ -6230,7 +6230,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -6382,7 +6382,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -6431,7 +6431,7 @@ export const dcimDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Termination Id",
+			"displayName": "Termination ID",
 			"name": "termination_id",
 			"type": "number",
 			"default": 0,
@@ -6480,7 +6480,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -6592,7 +6592,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -6692,7 +6692,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id",
+			"displayName": "Tenant Group ID",
 			"name": "tenant_group_id",
 			"description": "",
 			"default": "",
@@ -6742,7 +6742,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -6917,7 +6917,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination A Id",
+			"displayName": "Termination A ID",
 			"name": "termination_a_id",
 			"description": "",
 			"default": "",
@@ -6967,7 +6967,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination B Id",
+			"displayName": "Termination B ID",
 			"name": "termination_b_id",
 			"description": "",
 			"default": "",
@@ -7067,7 +7067,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -7117,7 +7117,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -7167,7 +7167,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -7217,7 +7217,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -7267,7 +7267,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -7292,7 +7292,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -7317,7 +7317,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -7342,7 +7342,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -7367,7 +7367,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -7792,7 +7792,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id N",
+			"displayName": "Tenant Group ID N",
 			"name": "tenant_group_id__n",
 			"description": "",
 			"default": "",
@@ -7842,7 +7842,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -8192,7 +8192,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination A Id N",
+			"displayName": "Termination A ID N",
 			"name": "termination_a_id__n",
 			"description": "",
 			"default": "",
@@ -8217,7 +8217,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination A Id Lte",
+			"displayName": "Termination A ID Lte",
 			"name": "termination_a_id__lte",
 			"description": "",
 			"default": "",
@@ -8242,7 +8242,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination A Id Lt",
+			"displayName": "Termination A ID Lt",
 			"name": "termination_a_id__lt",
 			"description": "",
 			"default": "",
@@ -8267,7 +8267,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination A Id Gte",
+			"displayName": "Termination A ID Gte",
 			"name": "termination_a_id__gte",
 			"description": "",
 			"default": "",
@@ -8292,7 +8292,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination A Id Gt",
+			"displayName": "Termination A ID Gt",
 			"name": "termination_a_id__gt",
 			"description": "",
 			"default": "",
@@ -8342,7 +8342,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination B Id N",
+			"displayName": "Termination B ID N",
 			"name": "termination_b_id__n",
 			"description": "",
 			"default": "",
@@ -8367,7 +8367,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination B Id Lte",
+			"displayName": "Termination B ID Lte",
 			"name": "termination_b_id__lte",
 			"description": "",
 			"default": "",
@@ -8392,7 +8392,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination B Id Lt",
+			"displayName": "Termination B ID Lt",
 			"name": "termination_b_id__lt",
 			"description": "",
 			"default": "",
@@ -8417,7 +8417,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination B Id Gte",
+			"displayName": "Termination B ID Gte",
 			"name": "termination_b_id__gte",
 			"description": "",
 			"default": "",
@@ -8442,7 +8442,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Termination B Id Gt",
+			"displayName": "Termination B ID Gt",
 			"name": "termination_b_id__gt",
 			"description": "",
 			"default": "",
@@ -8853,7 +8853,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -9203,7 +9203,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -9463,7 +9463,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -9813,7 +9813,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -10073,7 +10073,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -10423,7 +10423,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -10771,7 +10771,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -11121,7 +11121,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -11381,7 +11381,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -11731,7 +11731,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -11939,7 +11939,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -12089,7 +12089,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -12114,7 +12114,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id",
+			"displayName": "Moduletype ID",
 			"name": "moduletype_id",
 			"description": "",
 			"default": "",
@@ -12139,7 +12139,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -12164,7 +12164,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -12189,7 +12189,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -12214,7 +12214,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -12239,7 +12239,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -12789,7 +12789,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -12814,7 +12814,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id N",
+			"displayName": "Moduletype ID N",
 			"name": "moduletype_id__n",
 			"description": "",
 			"default": "",
@@ -13054,7 +13054,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -13187,7 +13187,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -13263,7 +13263,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -13427,7 +13427,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -13560,7 +13560,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -13636,7 +13636,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -13800,7 +13800,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -13933,7 +13933,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -14009,7 +14009,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -14261,7 +14261,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -14394,7 +14394,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -14470,7 +14470,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -14634,7 +14634,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -14767,7 +14767,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -14843,7 +14843,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -14955,7 +14955,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -15105,7 +15105,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -15155,7 +15155,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -15205,7 +15205,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -15255,7 +15255,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -15305,7 +15305,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -15355,7 +15355,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -15405,7 +15405,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -15455,7 +15455,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id",
+			"displayName": "Module ID",
 			"name": "module_id",
 			"description": "",
 			"default": "",
@@ -15655,7 +15655,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -15680,7 +15680,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -15705,7 +15705,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -15730,7 +15730,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -15755,7 +15755,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -16555,7 +16555,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -16605,7 +16605,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -16655,7 +16655,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -16705,7 +16705,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -16755,7 +16755,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -16805,7 +16805,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -16855,7 +16855,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -16905,7 +16905,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id N",
+			"displayName": "Module ID N",
 			"name": "module_id__n",
 			"description": "",
 			"default": "",
@@ -17615,7 +17615,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -17905,7 +17905,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -17981,7 +17981,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -18315,7 +18315,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -18605,7 +18605,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -18681,7 +18681,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -19015,7 +19015,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -19305,7 +19305,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -19381,7 +19381,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -19803,7 +19803,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -20093,7 +20093,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -20169,7 +20169,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -20503,7 +20503,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -20793,7 +20793,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -20869,7 +20869,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -21025,7 +21025,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -21175,7 +21175,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -21200,7 +21200,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id",
+			"displayName": "Moduletype ID",
 			"name": "moduletype_id",
 			"description": "",
 			"default": "",
@@ -21225,7 +21225,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -21250,7 +21250,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -21275,7 +21275,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -21300,7 +21300,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -21325,7 +21325,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -21875,7 +21875,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -21900,7 +21900,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id N",
+			"displayName": "Moduletype ID N",
 			"name": "moduletype_id__n",
 			"description": "",
 			"default": "",
@@ -22140,7 +22140,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -22273,7 +22273,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -22349,7 +22349,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -22513,7 +22513,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -22646,7 +22646,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -22722,7 +22722,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -22886,7 +22886,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -23019,7 +23019,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -23095,7 +23095,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -23347,7 +23347,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -23480,7 +23480,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -23556,7 +23556,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -23720,7 +23720,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -23853,7 +23853,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -23929,7 +23929,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -24041,7 +24041,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -24191,7 +24191,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -24241,7 +24241,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -24291,7 +24291,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -24341,7 +24341,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -24391,7 +24391,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -24441,7 +24441,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -24491,7 +24491,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -24541,7 +24541,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id",
+			"displayName": "Module ID",
 			"name": "module_id",
 			"description": "",
 			"default": "",
@@ -24741,7 +24741,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -24766,7 +24766,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -24791,7 +24791,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -24816,7 +24816,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -24841,7 +24841,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -25641,7 +25641,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -25691,7 +25691,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -25741,7 +25741,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -25791,7 +25791,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -25841,7 +25841,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -25891,7 +25891,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -25941,7 +25941,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -25991,7 +25991,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id N",
+			"displayName": "Module ID N",
 			"name": "module_id__n",
 			"description": "",
 			"default": "",
@@ -26701,7 +26701,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -26991,7 +26991,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -27067,7 +27067,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -27401,7 +27401,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -27691,7 +27691,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -27767,7 +27767,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -28101,7 +28101,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -28391,7 +28391,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -28467,7 +28467,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -28889,7 +28889,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -29179,7 +29179,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -29255,7 +29255,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -29589,7 +29589,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -29879,7 +29879,7 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "de-9"
 				},
 				{
-					"name": "Db 25",
+					"name": "DB 25",
 					"value": "db-25"
 				},
 				{
@@ -29955,7 +29955,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -30111,7 +30111,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -30236,7 +30236,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -30261,7 +30261,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -30286,7 +30286,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -30311,7 +30311,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -30336,7 +30336,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -30361,7 +30361,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -30886,7 +30886,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -31127,7 +31127,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -31226,7 +31226,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -31391,7 +31391,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -31490,7 +31490,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -31655,7 +31655,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -31754,7 +31754,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -32007,7 +32007,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -32106,7 +32106,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -32271,7 +32271,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -32370,7 +32370,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -32482,7 +32482,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -32607,7 +32607,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -32657,7 +32657,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -32707,7 +32707,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -32757,7 +32757,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -32807,7 +32807,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -32857,7 +32857,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -32907,7 +32907,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -33032,7 +33032,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -33057,7 +33057,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -33082,7 +33082,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -33107,7 +33107,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -33132,7 +33132,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -33907,7 +33907,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -33957,7 +33957,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -34007,7 +34007,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -34057,7 +34057,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -34107,7 +34107,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -34157,7 +34157,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -34207,7 +34207,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -34772,7 +34772,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -34918,7 +34918,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -35107,7 +35107,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -35253,7 +35253,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -35442,7 +35442,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -35588,7 +35588,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -35865,7 +35865,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -36011,7 +36011,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -36200,7 +36200,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -36346,7 +36346,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -36458,7 +36458,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -36708,7 +36708,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -36733,7 +36733,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -36758,7 +36758,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -36783,7 +36783,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -36808,7 +36808,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -38371,7 +38371,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -38493,7 +38493,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -38754,7 +38754,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -38876,7 +38876,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -39137,7 +39137,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -39259,7 +39259,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -39608,7 +39608,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -39730,7 +39730,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -39991,7 +39991,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -40113,7 +40113,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -40274,7 +40274,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -40624,7 +40624,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id",
+			"displayName": "Manufacturer ID",
 			"name": "manufacturer_id",
 			"description": "",
 			"default": "",
@@ -40949,7 +40949,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -40974,7 +40974,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -40999,7 +40999,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -41024,7 +41024,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -41049,7 +41049,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -42424,7 +42424,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id N",
+			"displayName": "Manufacturer ID N",
 			"name": "manufacturer_id__n",
 			"description": "",
 			"default": "",
@@ -42815,7 +42815,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -43095,7 +43095,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -43451,7 +43451,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -43731,7 +43731,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -44087,7 +44087,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -44367,7 +44367,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -44811,7 +44811,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -45091,7 +45091,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -45447,7 +45447,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -45727,7 +45727,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -45905,7 +45905,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -46180,7 +46180,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id",
+			"displayName": "Tenant Group ID",
 			"name": "tenant_group_id",
 			"description": "",
 			"default": "",
@@ -46230,7 +46230,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -46380,7 +46380,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id",
+			"displayName": "Manufacturer ID",
 			"name": "manufacturer_id",
 			"description": "",
 			"default": "",
@@ -46455,7 +46455,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Type Id",
+			"displayName": "Device Type ID",
 			"name": "device_type_id",
 			"description": "",
 			"default": "",
@@ -46480,7 +46480,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Role Id",
+			"displayName": "Role ID",
 			"name": "role_id",
 			"description": "",
 			"default": "",
@@ -46530,7 +46530,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Device Id",
+			"displayName": "Parent Device ID",
 			"name": "parent_device_id",
 			"description": "",
 			"default": "",
@@ -46555,7 +46555,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Platform Id",
+			"displayName": "Platform ID",
 			"name": "platform_id",
 			"description": "",
 			"default": "",
@@ -46605,7 +46605,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -46655,7 +46655,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -46705,7 +46705,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -46755,7 +46755,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -46780,7 +46780,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -46805,7 +46805,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Cluster Id",
+			"displayName": "Cluster ID",
 			"name": "cluster_id",
 			"description": "",
 			"default": "",
@@ -47005,7 +47005,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -47255,7 +47255,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Primary Ip 4 Id",
+			"displayName": "Primary Ip 4 ID",
 			"name": "primary_ip4_id",
 			"description": "",
 			"default": "",
@@ -47280,7 +47280,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Primary Ip 6 Id",
+			"displayName": "Primary Ip 6 ID",
 			"name": "primary_ip6_id",
 			"description": "",
 			"default": "",
@@ -47305,7 +47305,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -47330,7 +47330,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -47355,7 +47355,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -47380,7 +47380,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -47405,7 +47405,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -48380,7 +48380,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id N",
+			"displayName": "Tenant Group ID N",
 			"name": "tenant_group_id__n",
 			"description": "",
 			"default": "",
@@ -48430,7 +48430,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -48555,7 +48555,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id N",
+			"displayName": "Manufacturer ID N",
 			"name": "manufacturer_id__n",
 			"description": "",
 			"default": "",
@@ -48630,7 +48630,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Type Id N",
+			"displayName": "Device Type ID N",
 			"name": "device_type_id__n",
 			"description": "",
 			"default": "",
@@ -48655,7 +48655,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Role Id N",
+			"displayName": "Role ID N",
 			"name": "role_id__n",
 			"description": "",
 			"default": "",
@@ -48705,7 +48705,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Device Id N",
+			"displayName": "Parent Device ID N",
 			"name": "parent_device_id__n",
 			"description": "",
 			"default": "",
@@ -48730,7 +48730,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Platform Id N",
+			"displayName": "Platform ID N",
 			"name": "platform_id__n",
 			"description": "",
 			"default": "",
@@ -48780,7 +48780,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -48830,7 +48830,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -48880,7 +48880,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -48930,7 +48930,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -48955,7 +48955,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -48980,7 +48980,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Cluster Id N",
+			"displayName": "Cluster ID N",
 			"name": "cluster_id__n",
 			"description": "",
 			"default": "",
@@ -49780,7 +49780,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -49805,7 +49805,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Primary Ip 4 Id N",
+			"displayName": "Primary Ip 4 ID N",
 			"name": "primary_ip4_id__n",
 			"description": "",
 			"default": "",
@@ -49830,7 +49830,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Primary Ip 6 Id N",
+			"displayName": "Primary Ip 6 ID N",
 			"name": "primary_ip6_id__n",
 			"description": "",
 			"default": "",
@@ -50305,7 +50305,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -50744,7 +50744,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -51215,7 +51215,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -51654,7 +51654,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -52125,7 +52125,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -52564,7 +52564,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -53123,7 +53123,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -53562,7 +53562,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -54033,7 +54033,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -54472,7 +54472,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -54725,7 +54725,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -54900,7 +54900,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -54925,7 +54925,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id",
+			"displayName": "Moduletype ID",
 			"name": "moduletype_id",
 			"description": "",
 			"default": "",
@@ -54950,7 +54950,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -54975,7 +54975,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -55000,7 +55000,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -55025,7 +55025,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -55050,7 +55050,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -55850,7 +55850,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -55875,7 +55875,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id N",
+			"displayName": "Moduletype ID N",
 			"name": "moduletype_id__n",
 			"description": "",
 			"default": "",
@@ -56139,7 +56139,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -56510,7 +56510,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -56698,7 +56698,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -57069,7 +57069,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -57257,7 +57257,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -57628,7 +57628,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -57904,7 +57904,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -58275,7 +58275,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -58463,7 +58463,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -58834,7 +58834,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -58946,7 +58946,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -59146,7 +59146,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -59196,7 +59196,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -59246,7 +59246,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -59296,7 +59296,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -59346,7 +59346,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -59396,7 +59396,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -59446,7 +59446,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -59496,7 +59496,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id",
+			"displayName": "Module ID",
 			"name": "module_id",
 			"description": "",
 			"default": "",
@@ -59646,7 +59646,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -59671,7 +59671,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -59696,7 +59696,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -59721,7 +59721,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -59746,7 +59746,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -60821,7 +60821,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -60871,7 +60871,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -60921,7 +60921,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -60971,7 +60971,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -61021,7 +61021,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -61071,7 +61071,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -61121,7 +61121,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -61171,7 +61171,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id N",
+			"displayName": "Module ID N",
 			"name": "module_id__n",
 			"description": "",
 			"default": "",
@@ -61807,7 +61807,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -62275,7 +62275,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -62560,7 +62560,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -63028,7 +63028,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -63313,7 +63313,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -63781,7 +63781,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -64154,7 +64154,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -64622,7 +64622,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -64907,7 +64907,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -65375,7 +65375,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -65531,7 +65531,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -65706,7 +65706,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -65731,7 +65731,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id",
+			"displayName": "Moduletype ID",
 			"name": "moduletype_id",
 			"description": "",
 			"default": "",
@@ -65806,7 +65806,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -65831,7 +65831,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -65856,7 +65856,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -65881,7 +65881,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -65906,7 +65906,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -66456,7 +66456,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -66481,7 +66481,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id N",
+			"displayName": "Moduletype ID N",
 			"name": "moduletype_id__n",
 			"description": "",
 			"default": "",
@@ -66771,7 +66771,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -66978,19 +66978,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -67461,7 +67461,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -67625,7 +67625,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -67832,19 +67832,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -68315,7 +68315,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -68479,7 +68479,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -68686,19 +68686,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -69169,7 +69169,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -69421,7 +69421,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -69628,19 +69628,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -70111,7 +70111,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -70275,7 +70275,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -70482,19 +70482,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -70965,7 +70965,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -71077,7 +71077,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -71527,7 +71527,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -71577,7 +71577,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -71627,7 +71627,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -71677,7 +71677,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -71727,7 +71727,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -71777,7 +71777,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -71827,7 +71827,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -71877,7 +71877,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id",
+			"displayName": "Module ID",
 			"name": "module_id",
 			"description": "",
 			"default": "",
@@ -72077,7 +72077,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id",
+			"displayName": "Parent ID",
 			"name": "parent_id",
 			"description": "",
 			"default": "",
@@ -72102,7 +72102,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Bridge Id",
+			"displayName": "Bridge ID",
 			"name": "bridge_id",
 			"description": "",
 			"default": "",
@@ -72127,7 +72127,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Lag Id",
+			"displayName": "Lag ID",
 			"name": "lag_id",
 			"description": "",
 			"default": "",
@@ -72252,7 +72252,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Vlan Id",
+			"displayName": "Vlan ID",
 			"name": "vlan_id",
 			"description": "",
 			"default": "",
@@ -72302,7 +72302,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Vrf Id",
+			"displayName": "Vrf ID",
 			"name": "vrf_id",
 			"description": "",
 			"default": "",
@@ -72352,7 +72352,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Vdc Id",
+			"displayName": "Vdc ID",
 			"name": "vdc_id",
 			"description": "",
 			"default": "",
@@ -72427,7 +72427,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "L 2 Vpn Id",
+			"displayName": "L 2 Vpn ID",
 			"name": "l2vpn_id",
 			"description": "",
 			"default": "",
@@ -72477,7 +72477,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -72502,7 +72502,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -72527,7 +72527,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -72552,7 +72552,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -72577,7 +72577,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -74027,7 +74027,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -74077,7 +74077,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -74127,7 +74127,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -74177,7 +74177,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -74227,7 +74227,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -74277,7 +74277,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -74327,7 +74327,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id N",
+			"displayName": "Module ID N",
 			"name": "module_id__n",
 			"description": "",
 			"default": "",
@@ -74627,7 +74627,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id N",
+			"displayName": "Parent ID N",
 			"name": "parent_id__n",
 			"description": "",
 			"default": "",
@@ -74652,7 +74652,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Bridge Id N",
+			"displayName": "Bridge ID N",
 			"name": "bridge_id__n",
 			"description": "",
 			"default": "",
@@ -74677,7 +74677,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Lag Id N",
+			"displayName": "Lag ID N",
 			"name": "lag_id__n",
 			"description": "",
 			"default": "",
@@ -75302,7 +75302,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Vrf Id N",
+			"displayName": "Vrf ID N",
 			"name": "vrf_id__n",
 			"description": "",
 			"default": "",
@@ -75352,7 +75352,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Vdc Id N",
+			"displayName": "Vdc ID N",
 			"name": "vdc_id__n",
 			"description": "",
 			"default": "",
@@ -75427,7 +75427,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "L 2 Vpn Id N",
+			"displayName": "L 2 Vpn ID N",
 			"name": "l2vpn_id__n",
 			"description": "",
 			"default": "",
@@ -75996,7 +75996,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -76435,19 +76435,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -77934,7 +77934,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -78524,7 +78524,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -78963,19 +78963,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -80462,7 +80462,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -81052,7 +81052,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -81491,19 +81491,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -82990,7 +82990,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -83668,7 +83668,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -84107,19 +84107,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -85606,7 +85606,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -86196,7 +86196,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -86635,19 +86635,19 @@ export const dcimDescription: INodeProperties[] = [
 					"value": "type4-ieee802.3bt"
 				},
 				{
-					"name": "Passive 24 V 2 Pair",
+					"name": "Passive 24 v2 Pair",
 					"value": "passive-24v-2pair"
 				},
 				{
-					"name": "Passive 24 V 4 Pair",
+					"name": "Passive 24 v4 Pair",
 					"value": "passive-24v-4pair"
 				},
 				{
-					"name": "Passive 48 V 2 Pair",
+					"name": "Passive 48 v2 Pair",
 					"value": "passive-48v-2pair"
 				},
 				{
-					"name": "Passive 48 V 4 Pair",
+					"name": "Passive 48 v4 Pair",
 					"value": "passive-48v-4pair"
 				}
 			],
@@ -88134,7 +88134,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -88412,7 +88412,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -88612,7 +88612,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -88637,7 +88637,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -88662,7 +88662,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -88687,7 +88687,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -88712,7 +88712,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -90001,7 +90001,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -90147,7 +90147,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -90335,7 +90335,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -90481,7 +90481,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -90669,7 +90669,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -90815,7 +90815,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -91091,7 +91091,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -91237,7 +91237,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -91425,7 +91425,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -91571,7 +91571,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -91683,7 +91683,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -91758,7 +91758,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"description": "",
 			"default": "",
@@ -91858,7 +91858,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -91883,7 +91883,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id",
+			"displayName": "Parent ID",
 			"name": "parent_id",
 			"description": "",
 			"default": "",
@@ -91908,7 +91908,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id",
+			"displayName": "Manufacturer ID",
 			"name": "manufacturer_id",
 			"description": "",
 			"default": "",
@@ -91958,7 +91958,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Role Id",
+			"displayName": "Role ID",
 			"name": "role_id",
 			"description": "",
 			"default": "",
@@ -92033,7 +92033,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"description": "",
 			"default": "",
@@ -92058,7 +92058,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -92083,7 +92083,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -92108,7 +92108,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -92133,7 +92133,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -92158,7 +92158,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -92683,7 +92683,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id N",
+			"displayName": "Part ID N",
 			"name": "part_id__n",
 			"description": "",
 			"default": "",
@@ -92708,7 +92708,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Ic",
+			"displayName": "Part ID Ic",
 			"name": "part_id__ic",
 			"description": "",
 			"default": "",
@@ -92733,7 +92733,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Nic",
+			"displayName": "Part ID Nic",
 			"name": "part_id__nic",
 			"description": "",
 			"default": "",
@@ -92758,7 +92758,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Iew",
+			"displayName": "Part ID Iew",
 			"name": "part_id__iew",
 			"description": "",
 			"default": "",
@@ -92783,7 +92783,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Niew",
+			"displayName": "Part ID Niew",
 			"name": "part_id__niew",
 			"description": "",
 			"default": "",
@@ -92808,7 +92808,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Isw",
+			"displayName": "Part ID Isw",
 			"name": "part_id__isw",
 			"description": "",
 			"default": "",
@@ -92833,7 +92833,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Nisw",
+			"displayName": "Part ID Nisw",
 			"name": "part_id__nisw",
 			"description": "",
 			"default": "",
@@ -92858,7 +92858,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Ie",
+			"displayName": "Part ID Ie",
 			"name": "part_id__ie",
 			"description": "",
 			"default": "",
@@ -92883,7 +92883,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Nie",
+			"displayName": "Part ID Nie",
 			"name": "part_id__nie",
 			"description": "",
 			"default": "",
@@ -92908,7 +92908,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Empty",
+			"displayName": "Part ID Empty",
 			"name": "part_id__empty",
 			"description": "",
 			"default": "",
@@ -93183,7 +93183,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -93208,7 +93208,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id N",
+			"displayName": "Parent ID N",
 			"name": "parent_id__n",
 			"description": "",
 			"default": "",
@@ -93233,7 +93233,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id N",
+			"displayName": "Manufacturer ID N",
 			"name": "manufacturer_id__n",
 			"description": "",
 			"default": "",
@@ -93283,7 +93283,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Role Id N",
+			"displayName": "Role ID N",
 			"name": "role_id__n",
 			"description": "",
 			"default": "",
@@ -93358,7 +93358,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id N",
+			"displayName": "Component ID N",
 			"name": "component_id__n",
 			"description": "",
 			"default": "",
@@ -93383,7 +93383,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id Lte",
+			"displayName": "Component ID Lte",
 			"name": "component_id__lte",
 			"description": "",
 			"default": "",
@@ -93408,7 +93408,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id Lt",
+			"displayName": "Component ID Lt",
 			"name": "component_id__lt",
 			"description": "",
 			"default": "",
@@ -93433,7 +93433,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id Gte",
+			"displayName": "Component ID Gte",
 			"name": "component_id__gte",
 			"description": "",
 			"default": "",
@@ -93458,7 +93458,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id Gt",
+			"displayName": "Component ID Gt",
 			"name": "component_id__gt",
 			"description": "",
 			"default": "",
@@ -93650,7 +93650,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -93795,7 +93795,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -93942,7 +93942,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -93991,7 +93991,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -94107,7 +94107,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -94252,7 +94252,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -94399,7 +94399,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -94448,7 +94448,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -94564,7 +94564,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -94709,7 +94709,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -94856,7 +94856,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -94905,7 +94905,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -95109,7 +95109,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -95254,7 +95254,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -95401,7 +95401,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -95450,7 +95450,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -95566,7 +95566,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -95711,7 +95711,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -95858,7 +95858,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -95907,7 +95907,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -96019,7 +96019,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -96094,7 +96094,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"description": "",
 			"default": "",
@@ -96194,7 +96194,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -96244,7 +96244,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -96294,7 +96294,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -96344,7 +96344,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -96394,7 +96394,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -96444,7 +96444,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -96494,7 +96494,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -96619,7 +96619,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id",
+			"displayName": "Parent ID",
 			"name": "parent_id",
 			"description": "",
 			"default": "",
@@ -96644,7 +96644,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id",
+			"displayName": "Manufacturer ID",
 			"name": "manufacturer_id",
 			"description": "",
 			"default": "",
@@ -96694,7 +96694,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Role Id",
+			"displayName": "Role ID",
 			"name": "role_id",
 			"description": "",
 			"default": "",
@@ -96769,7 +96769,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"description": "",
 			"default": "",
@@ -96819,7 +96819,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -96844,7 +96844,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -96869,7 +96869,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -96894,7 +96894,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -96919,7 +96919,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -97444,7 +97444,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id N",
+			"displayName": "Part ID N",
 			"name": "part_id__n",
 			"description": "",
 			"default": "",
@@ -97469,7 +97469,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Ic",
+			"displayName": "Part ID Ic",
 			"name": "part_id__ic",
 			"description": "",
 			"default": "",
@@ -97494,7 +97494,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Nic",
+			"displayName": "Part ID Nic",
 			"name": "part_id__nic",
 			"description": "",
 			"default": "",
@@ -97519,7 +97519,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Iew",
+			"displayName": "Part ID Iew",
 			"name": "part_id__iew",
 			"description": "",
 			"default": "",
@@ -97544,7 +97544,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Niew",
+			"displayName": "Part ID Niew",
 			"name": "part_id__niew",
 			"description": "",
 			"default": "",
@@ -97569,7 +97569,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Isw",
+			"displayName": "Part ID Isw",
 			"name": "part_id__isw",
 			"description": "",
 			"default": "",
@@ -97594,7 +97594,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Nisw",
+			"displayName": "Part ID Nisw",
 			"name": "part_id__nisw",
 			"description": "",
 			"default": "",
@@ -97619,7 +97619,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Ie",
+			"displayName": "Part ID Ie",
 			"name": "part_id__ie",
 			"description": "",
 			"default": "",
@@ -97644,7 +97644,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Nie",
+			"displayName": "Part ID Nie",
 			"name": "part_id__nie",
 			"description": "",
 			"default": "",
@@ -97669,7 +97669,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id Empty",
+			"displayName": "Part ID Empty",
 			"name": "part_id__empty",
 			"description": "",
 			"default": "",
@@ -97944,7 +97944,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -97994,7 +97994,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -98044,7 +98044,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -98094,7 +98094,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -98144,7 +98144,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -98194,7 +98194,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -98244,7 +98244,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -98569,7 +98569,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id N",
+			"displayName": "Parent ID N",
 			"name": "parent_id__n",
 			"description": "",
 			"default": "",
@@ -98594,7 +98594,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id N",
+			"displayName": "Manufacturer ID N",
 			"name": "manufacturer_id__n",
 			"description": "",
 			"default": "",
@@ -98644,7 +98644,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Role Id N",
+			"displayName": "Role ID N",
 			"name": "role_id__n",
 			"description": "",
 			"default": "",
@@ -98719,7 +98719,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id N",
+			"displayName": "Component ID N",
 			"name": "component_id__n",
 			"description": "",
 			"default": "",
@@ -98744,7 +98744,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id Lte",
+			"displayName": "Component ID Lte",
 			"name": "component_id__lte",
 			"description": "",
 			"default": "",
@@ -98769,7 +98769,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id Lt",
+			"displayName": "Component ID Lt",
 			"name": "component_id__lt",
 			"description": "",
 			"default": "",
@@ -98794,7 +98794,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id Gte",
+			"displayName": "Component ID Gte",
 			"name": "component_id__gte",
 			"description": "",
 			"default": "",
@@ -98819,7 +98819,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id Gt",
+			"displayName": "Component ID Gt",
 			"name": "component_id__gt",
 			"description": "",
 			"default": "",
@@ -99286,7 +99286,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -99480,7 +99480,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -99626,7 +99626,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -99723,7 +99723,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -99864,7 +99864,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -100058,7 +100058,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -100204,7 +100204,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -100301,7 +100301,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -100442,7 +100442,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -100636,7 +100636,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -100782,7 +100782,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -100879,7 +100879,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -101108,7 +101108,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -101302,7 +101302,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -101448,7 +101448,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -101545,7 +101545,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -101686,7 +101686,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Component Id",
+			"displayName": "Component ID",
 			"name": "component_id",
 			"type": "number",
 			"default": 0,
@@ -101880,7 +101880,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -102026,7 +102026,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Part Id",
+			"displayName": "Part ID",
 			"name": "part_id",
 			"type": "string",
 			"default": "",
@@ -102123,7 +102123,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -102235,7 +102235,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -102360,7 +102360,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id",
+			"displayName": "Tenant Group ID",
 			"name": "tenant_group_id",
 			"description": "",
 			"default": "",
@@ -102410,7 +102410,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -102635,7 +102635,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -102685,7 +102685,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -102735,7 +102735,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -102785,7 +102785,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id",
+			"displayName": "Parent ID",
 			"name": "parent_id",
 			"description": "",
 			"default": "",
@@ -102835,7 +102835,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -102860,7 +102860,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -102885,7 +102885,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -102910,7 +102910,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -102935,7 +102935,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -103735,7 +103735,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id N",
+			"displayName": "Tenant Group ID N",
 			"name": "tenant_group_id__n",
 			"description": "",
 			"default": "",
@@ -103785,7 +103785,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -104185,7 +104185,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -104235,7 +104235,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -104285,7 +104285,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -104335,7 +104335,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id N",
+			"displayName": "Parent ID N",
 			"name": "parent_id__n",
 			"description": "",
 			"default": "",
@@ -104648,7 +104648,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -104913,7 +104913,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -105125,7 +105125,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -105390,7 +105390,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -105602,7 +105602,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -105867,7 +105867,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -106167,7 +106167,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -106432,7 +106432,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -106644,7 +106644,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -106909,7 +106909,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -107021,7 +107021,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -107296,7 +107296,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -107321,7 +107321,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -107346,7 +107346,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -107371,7 +107371,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -107396,7 +107396,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -108760,7 +108760,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -108930,7 +108930,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -109118,7 +109118,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -109288,7 +109288,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -109476,7 +109476,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -109646,7 +109646,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -109922,7 +109922,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -110092,7 +110092,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -110280,7 +110280,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -110450,7 +110450,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -110562,7 +110562,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -110687,7 +110687,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -110712,7 +110712,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -110737,7 +110737,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -110762,7 +110762,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -110787,7 +110787,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -110812,7 +110812,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -111337,7 +111337,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -111578,7 +111578,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -111702,7 +111702,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -111867,7 +111867,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -111991,7 +111991,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -112156,7 +112156,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -112280,7 +112280,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -112533,7 +112533,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -112657,7 +112657,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -112822,7 +112822,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -112946,7 +112946,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -113058,7 +113058,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -113183,7 +113183,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -113233,7 +113233,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -113283,7 +113283,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -113333,7 +113333,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -113383,7 +113383,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -113433,7 +113433,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -113483,7 +113483,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -113608,7 +113608,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -113633,7 +113633,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -113658,7 +113658,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -113683,7 +113683,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -113708,7 +113708,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -114483,7 +114483,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -114533,7 +114533,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -114583,7 +114583,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -114633,7 +114633,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -114683,7 +114683,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -114733,7 +114733,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -114783,7 +114783,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -115348,7 +115348,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -115520,7 +115520,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -115709,7 +115709,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -115881,7 +115881,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -116070,7 +116070,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -116242,7 +116242,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -116519,7 +116519,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -116691,7 +116691,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -116880,7 +116880,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -117052,7 +117052,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -117164,7 +117164,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -117389,7 +117389,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id",
+			"displayName": "Manufacturer ID",
 			"name": "manufacturer_id",
 			"description": "",
 			"default": "",
@@ -117589,7 +117589,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -117614,7 +117614,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -117639,7 +117639,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -117664,7 +117664,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -117689,7 +117689,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -118639,7 +118639,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id N",
+			"displayName": "Manufacturer ID N",
 			"name": "manufacturer_id__n",
 			"description": "",
 			"default": "",
@@ -118928,7 +118928,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -119075,7 +119075,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -119329,7 +119329,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -119476,7 +119476,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -119730,7 +119730,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -119877,7 +119877,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -120219,7 +120219,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -120366,7 +120366,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -120620,7 +120620,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -120767,7 +120767,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -120945,7 +120945,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -121120,7 +121120,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id",
+			"displayName": "Manufacturer ID",
 			"name": "manufacturer_id",
 			"description": "",
 			"default": "",
@@ -121170,7 +121170,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Type Id",
+			"displayName": "Module Type ID",
 			"name": "module_type_id",
 			"description": "",
 			"default": "",
@@ -121220,7 +121220,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Bay Id",
+			"displayName": "Module Bay ID",
 			"name": "module_bay_id",
 			"description": "",
 			"default": "",
@@ -121245,7 +121245,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -121295,7 +121295,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -121320,7 +121320,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -121345,7 +121345,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -121370,7 +121370,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -121395,7 +121395,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -121970,7 +121970,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id N",
+			"displayName": "Manufacturer ID N",
 			"name": "manufacturer_id__n",
 			"description": "",
 			"default": "",
@@ -122020,7 +122020,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Type Id N",
+			"displayName": "Module Type ID N",
 			"name": "module_type_id__n",
 			"description": "",
 			"default": "",
@@ -122070,7 +122070,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Bay Id N",
+			"displayName": "Module Bay ID N",
 			"name": "module_bay_id__n",
 			"description": "",
 			"default": "",
@@ -122095,7 +122095,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -122659,7 +122659,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -122855,7 +122855,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -123093,7 +123093,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -123289,7 +123289,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -123527,7 +123527,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -123723,7 +123723,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -124049,7 +124049,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -124245,7 +124245,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -124483,7 +124483,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -124679,7 +124679,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -124791,7 +124791,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -125016,7 +125016,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id",
+			"displayName": "Manufacturer ID",
 			"name": "manufacturer_id",
 			"description": "",
 			"default": "",
@@ -125066,7 +125066,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -125091,7 +125091,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -125116,7 +125116,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -125141,7 +125141,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -125166,7 +125166,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -126466,7 +126466,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Manufacturer Id N",
+			"displayName": "Manufacturer ID N",
 			"name": "manufacturer_id__n",
 			"description": "",
 			"default": "",
@@ -126755,7 +126755,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -126952,7 +126952,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -127164,7 +127164,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -127361,7 +127361,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -127573,7 +127573,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -127770,7 +127770,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -128070,7 +128070,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -128267,7 +128267,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -128479,7 +128479,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -128676,7 +128676,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -128812,7 +128812,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -129237,7 +129237,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -129287,7 +129287,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -129337,7 +129337,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -129387,7 +129387,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Power Panel Id",
+			"displayName": "Power Panel ID",
 			"name": "power_panel_id",
 			"description": "",
 			"default": "",
@@ -129412,7 +129412,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -129437,7 +129437,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -129462,7 +129462,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -129487,7 +129487,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -129512,7 +129512,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -129537,7 +129537,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -130587,7 +130587,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -130637,7 +130637,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -130687,7 +130687,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -130737,7 +130737,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Power Panel Id N",
+			"displayName": "Power Panel ID N",
 			"name": "power_panel_id__n",
 			"description": "",
 			"default": "",
@@ -130762,7 +130762,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -131195,7 +131195,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -131584,7 +131584,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -131965,7 +131965,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -132354,7 +132354,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -132735,7 +132735,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -133124,7 +133124,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -133593,7 +133593,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -133982,7 +133982,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -134363,7 +134363,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -134752,7 +134752,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -134932,7 +134932,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -135107,7 +135107,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -135132,7 +135132,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id",
+			"displayName": "Moduletype ID",
 			"name": "moduletype_id",
 			"description": "",
 			"default": "",
@@ -135157,7 +135157,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -135182,7 +135182,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -135207,7 +135207,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -135232,7 +135232,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -135257,7 +135257,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -135832,7 +135832,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -135857,7 +135857,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id N",
+			"displayName": "Moduletype ID N",
 			"name": "moduletype_id__n",
 			"description": "",
 			"default": "",
@@ -136136,7 +136136,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -136669,7 +136669,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -136872,7 +136872,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -137405,7 +137405,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -137608,7 +137608,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -138141,7 +138141,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -138432,7 +138432,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -138965,7 +138965,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -139168,7 +139168,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -139701,7 +139701,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -139813,7 +139813,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -139988,7 +139988,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -140038,7 +140038,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -140088,7 +140088,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -140138,7 +140138,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -140188,7 +140188,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -140238,7 +140238,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -140288,7 +140288,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -140338,7 +140338,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id",
+			"displayName": "Module ID",
 			"name": "module_id",
 			"description": "",
 			"default": "",
@@ -140538,7 +140538,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -140563,7 +140563,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -140588,7 +140588,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -140613,7 +140613,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -140638,7 +140638,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -141463,7 +141463,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -141513,7 +141513,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -141563,7 +141563,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -141613,7 +141613,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -141663,7 +141663,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -141713,7 +141713,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -141763,7 +141763,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -141813,7 +141813,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id N",
+			"displayName": "Module ID N",
 			"name": "module_id__n",
 			"description": "",
 			"default": "",
@@ -142562,7 +142562,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -143193,7 +143193,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -143566,7 +143566,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -144197,7 +144197,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -144570,7 +144570,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -145201,7 +145201,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -145662,7 +145662,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -146293,7 +146293,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -146666,7 +146666,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -147297,7 +147297,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -147453,7 +147453,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -147678,7 +147678,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -147728,7 +147728,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -147778,7 +147778,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -147828,7 +147828,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -147853,7 +147853,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -147878,7 +147878,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -147903,7 +147903,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -147928,7 +147928,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -147953,7 +147953,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -148578,7 +148578,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -148628,7 +148628,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -148678,7 +148678,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -148728,7 +148728,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -148992,7 +148992,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -149162,7 +149162,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -149350,7 +149350,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -149520,7 +149520,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -149708,7 +149708,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -149878,7 +149878,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -150154,7 +150154,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -150324,7 +150324,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -150512,7 +150512,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -150682,7 +150682,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -150794,7 +150794,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -150994,7 +150994,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -151019,7 +151019,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id",
+			"displayName": "Moduletype ID",
 			"name": "moduletype_id",
 			"description": "",
 			"default": "",
@@ -151044,7 +151044,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -151069,7 +151069,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -151094,7 +151094,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -151119,7 +151119,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -151144,7 +151144,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -151944,7 +151944,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -151969,7 +151969,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id N",
+			"displayName": "Moduletype ID N",
 			"name": "moduletype_id__n",
 			"description": "",
 			"default": "",
@@ -152234,7 +152234,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -152796,7 +152796,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -152985,7 +152985,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -153547,7 +153547,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -153736,7 +153736,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -154298,7 +154298,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -154575,7 +154575,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -155137,7 +155137,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -155326,7 +155326,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -155888,7 +155888,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -156000,7 +156000,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -156200,7 +156200,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -156250,7 +156250,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -156300,7 +156300,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -156350,7 +156350,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -156400,7 +156400,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -156450,7 +156450,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -156500,7 +156500,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -156550,7 +156550,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id",
+			"displayName": "Module ID",
 			"name": "module_id",
 			"description": "",
 			"default": "",
@@ -156750,7 +156750,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -156775,7 +156775,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -156800,7 +156800,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -156825,7 +156825,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -156850,7 +156850,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -157900,7 +157900,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -157950,7 +157950,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -158000,7 +158000,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -158050,7 +158050,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -158100,7 +158100,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -158150,7 +158150,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -158200,7 +158200,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -158250,7 +158250,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id N",
+			"displayName": "Module ID N",
 			"name": "module_id__n",
 			"description": "",
 			"default": "",
@@ -158985,7 +158985,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -159645,7 +159645,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -160004,7 +160004,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -160664,7 +160664,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -161023,7 +161023,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -161683,7 +161683,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -162130,7 +162130,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -162790,7 +162790,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -163149,7 +163149,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -163809,7 +163809,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -163965,7 +163965,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -164115,7 +164115,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id",
+			"displayName": "Tenant Group ID",
 			"name": "tenant_group_id",
 			"description": "",
 			"default": "",
@@ -164165,7 +164165,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -164215,7 +164215,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -164240,7 +164240,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -164290,7 +164290,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -164340,7 +164340,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -164390,7 +164390,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -164440,7 +164440,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id",
+			"displayName": "User ID",
 			"name": "user_id",
 			"description": "",
 			"default": "",
@@ -164490,7 +164490,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -164515,7 +164515,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -164540,7 +164540,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -164565,7 +164565,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -164590,7 +164590,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -165140,7 +165140,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id N",
+			"displayName": "Tenant Group ID N",
 			"name": "tenant_group_id__n",
 			"description": "",
 			"default": "",
@@ -165190,7 +165190,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -165240,7 +165240,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -165265,7 +165265,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -165315,7 +165315,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -165365,7 +165365,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -165415,7 +165415,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -165465,7 +165465,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "User Id N",
+			"displayName": "User ID N",
 			"name": "user_id__n",
 			"description": "",
 			"default": "",
@@ -165755,7 +165755,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -165901,7 +165901,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -166115,7 +166115,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -166261,7 +166261,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -166475,7 +166475,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -166621,7 +166621,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -166923,7 +166923,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -167069,7 +167069,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -167283,7 +167283,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -167429,7 +167429,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -167566,7 +167566,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -167791,7 +167791,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -167816,7 +167816,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -167841,7 +167841,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -167866,7 +167866,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -167891,7 +167891,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -169430,7 +169430,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -169576,7 +169576,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -169764,7 +169764,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -169910,7 +169910,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -170098,7 +170098,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -170244,7 +170244,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -170520,7 +170520,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -170666,7 +170666,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -170854,7 +170854,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -171000,7 +171000,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -171112,7 +171112,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -171162,7 +171162,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id",
+			"displayName": "Facility ID",
 			"name": "facility_id",
 			"description": "",
 			"default": "",
@@ -171537,7 +171537,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id",
+			"displayName": "Tenant Group ID",
 			"name": "tenant_group_id",
 			"description": "",
 			"default": "",
@@ -171587,7 +171587,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -171712,7 +171712,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -171762,7 +171762,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -171812,7 +171812,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -171862,7 +171862,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -171987,7 +171987,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Role Id",
+			"displayName": "Role ID",
 			"name": "role_id",
 			"description": "",
 			"default": "",
@@ -172062,7 +172062,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -172087,7 +172087,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -172112,7 +172112,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -172137,7 +172137,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -172162,7 +172162,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -172437,7 +172437,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id N",
+			"displayName": "Facility ID N",
 			"name": "facility_id__n",
 			"description": "",
 			"default": "",
@@ -172462,7 +172462,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id Ic",
+			"displayName": "Facility ID Ic",
 			"name": "facility_id__ic",
 			"description": "",
 			"default": "",
@@ -172487,7 +172487,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id Nic",
+			"displayName": "Facility ID Nic",
 			"name": "facility_id__nic",
 			"description": "",
 			"default": "",
@@ -172512,7 +172512,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id Iew",
+			"displayName": "Facility ID Iew",
 			"name": "facility_id__iew",
 			"description": "",
 			"default": "",
@@ -172537,7 +172537,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id Niew",
+			"displayName": "Facility ID Niew",
 			"name": "facility_id__niew",
 			"description": "",
 			"default": "",
@@ -172562,7 +172562,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id Isw",
+			"displayName": "Facility ID Isw",
 			"name": "facility_id__isw",
 			"description": "",
 			"default": "",
@@ -172587,7 +172587,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id Nisw",
+			"displayName": "Facility ID Nisw",
 			"name": "facility_id__nisw",
 			"description": "",
 			"default": "",
@@ -172612,7 +172612,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id Ie",
+			"displayName": "Facility ID Ie",
 			"name": "facility_id__ie",
 			"description": "",
 			"default": "",
@@ -172637,7 +172637,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id Nie",
+			"displayName": "Facility ID Nie",
 			"name": "facility_id__nie",
 			"description": "",
 			"default": "",
@@ -172662,7 +172662,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id Empty",
+			"displayName": "Facility ID Empty",
 			"name": "facility_id__empty",
 			"description": "",
 			"default": "",
@@ -174012,7 +174012,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id N",
+			"displayName": "Tenant Group ID N",
 			"name": "tenant_group_id__n",
 			"description": "",
 			"default": "",
@@ -174062,7 +174062,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -174187,7 +174187,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -174237,7 +174237,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -174287,7 +174287,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -174337,7 +174337,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -174462,7 +174462,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Role Id N",
+			"displayName": "Role ID N",
 			"name": "role_id__n",
 			"description": "",
 			"default": "",
@@ -175075,7 +175075,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id",
+			"displayName": "Facility ID",
 			"name": "facility_id",
 			"type": "string",
 			"default": "",
@@ -175099,7 +175099,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -175601,7 +175601,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -175972,7 +175972,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id",
+			"displayName": "Facility ID",
 			"name": "facility_id",
 			"type": "string",
 			"default": "",
@@ -175996,7 +175996,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -176498,7 +176498,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -176869,7 +176869,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id",
+			"displayName": "Facility ID",
 			"name": "facility_id",
 			"type": "string",
 			"default": "",
@@ -176893,7 +176893,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -177395,7 +177395,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -177854,7 +177854,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id",
+			"displayName": "Facility ID",
 			"name": "facility_id",
 			"type": "string",
 			"default": "",
@@ -177878,7 +177878,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -178380,7 +178380,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -178751,7 +178751,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Facility Id",
+			"displayName": "Facility ID",
 			"name": "facility_id",
 			"type": "string",
 			"default": "",
@@ -178775,7 +178775,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -179277,7 +179277,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -179518,7 +179518,7 @@ export const dcimDescription: INodeProperties[] = [
 			"type": "options",
 			"options": [
 				{
-					"name": "Json",
+					"name": "JSON",
 					"value": "json"
 				},
 				{
@@ -179802,7 +179802,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -180002,7 +180002,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id",
+			"displayName": "Devicetype ID",
 			"name": "devicetype_id",
 			"description": "",
 			"default": "",
@@ -180027,7 +180027,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id",
+			"displayName": "Moduletype ID",
 			"name": "moduletype_id",
 			"description": "",
 			"default": "",
@@ -180052,7 +180052,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -180077,7 +180077,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -180102,7 +180102,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -180127,7 +180127,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -180152,7 +180152,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -181077,7 +181077,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Devicetype Id N",
+			"displayName": "Devicetype ID N",
 			"name": "devicetype_id__n",
 			"description": "",
 			"default": "",
@@ -181102,7 +181102,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Moduletype Id N",
+			"displayName": "Moduletype ID N",
 			"name": "moduletype_id__n",
 			"description": "",
 			"default": "",
@@ -181366,7 +181366,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -181712,7 +181712,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -181900,7 +181900,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -182246,7 +182246,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -182434,7 +182434,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -182780,7 +182780,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -183056,7 +183056,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -183402,7 +183402,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -183590,7 +183590,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -183936,7 +183936,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -184048,7 +184048,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -184273,7 +184273,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -184323,7 +184323,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -184373,7 +184373,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -184423,7 +184423,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id",
+			"displayName": "Location ID",
 			"name": "location_id",
 			"description": "",
 			"default": "",
@@ -184473,7 +184473,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id",
+			"displayName": "Rack ID",
 			"name": "rack_id",
 			"description": "",
 			"default": "",
@@ -184523,7 +184523,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -184573,7 +184573,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id",
+			"displayName": "Virtual Chassis ID",
 			"name": "virtual_chassis_id",
 			"description": "",
 			"default": "",
@@ -184623,7 +184623,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id",
+			"displayName": "Module ID",
 			"name": "module_id",
 			"description": "",
 			"default": "",
@@ -184773,7 +184773,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -184798,7 +184798,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -184823,7 +184823,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -184848,7 +184848,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -184873,7 +184873,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -186073,7 +186073,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -186123,7 +186123,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -186173,7 +186173,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -186223,7 +186223,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Location Id N",
+			"displayName": "Location ID N",
 			"name": "location_id__n",
 			"description": "",
 			"default": "",
@@ -186273,7 +186273,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Rack Id N",
+			"displayName": "Rack ID N",
 			"name": "rack_id__n",
 			"description": "",
 			"default": "",
@@ -186323,7 +186323,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -186373,7 +186373,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Virtual Chassis Id N",
+			"displayName": "Virtual Chassis ID N",
 			"name": "virtual_chassis_id__n",
 			"description": "",
 			"default": "",
@@ -186423,7 +186423,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Module Id N",
+			"displayName": "Module ID N",
 			"name": "module_id__n",
 			"description": "",
 			"default": "",
@@ -187059,7 +187059,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -187502,7 +187502,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -187787,7 +187787,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -188230,7 +188230,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -188515,7 +188515,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -188958,7 +188958,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -189331,7 +189331,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -189774,7 +189774,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -190059,7 +190059,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -190502,7 +190502,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -190658,7 +190658,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -190933,7 +190933,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id",
+			"displayName": "Parent ID",
 			"name": "parent_id",
 			"description": "",
 			"default": "",
@@ -190983,7 +190983,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -191008,7 +191008,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -191033,7 +191033,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -191058,7 +191058,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -191083,7 +191083,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -192208,7 +192208,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id N",
+			"displayName": "Parent ID N",
 			"name": "parent_id__n",
 			"description": "",
 			"default": "",
@@ -192497,7 +192497,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -192667,7 +192667,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -192855,7 +192855,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -193025,7 +193025,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -193213,7 +193213,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -193383,7 +193383,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -193659,7 +193659,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -193829,7 +193829,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -194017,7 +194017,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -194187,7 +194187,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -194299,7 +194299,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -194574,7 +194574,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id",
+			"displayName": "Parent ID",
 			"name": "parent_id",
 			"description": "",
 			"default": "",
@@ -194624,7 +194624,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -194649,7 +194649,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -194674,7 +194674,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -194699,7 +194699,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -194724,7 +194724,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -195849,7 +195849,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Parent Id N",
+			"displayName": "Parent ID N",
 			"name": "parent_id__n",
 			"description": "",
 			"default": "",
@@ -196138,7 +196138,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -196308,7 +196308,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -196496,7 +196496,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -196666,7 +196666,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -196854,7 +196854,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -197024,7 +197024,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -197300,7 +197300,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -197470,7 +197470,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -197658,7 +197658,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -197828,7 +197828,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -197940,7 +197940,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -198215,7 +198215,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id",
+			"displayName": "Tenant Group ID",
 			"name": "tenant_group_id",
 			"description": "",
 			"default": "",
@@ -198265,7 +198265,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -198415,7 +198415,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -198465,7 +198465,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Group Id",
+			"displayName": "Group ID",
 			"name": "group_id",
 			"description": "",
 			"default": "",
@@ -198540,7 +198540,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Asn Id",
+			"displayName": "Asn ID",
 			"name": "asn_id",
 			"description": "",
 			"default": "",
@@ -198565,7 +198565,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -198590,7 +198590,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -198615,7 +198615,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -198640,7 +198640,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -198665,7 +198665,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -200215,7 +200215,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id N",
+			"displayName": "Tenant Group ID N",
 			"name": "tenant_group_id__n",
 			"description": "",
 			"default": "",
@@ -200265,7 +200265,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -200415,7 +200415,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -200465,7 +200465,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Group Id N",
+			"displayName": "Group ID N",
 			"name": "group_id__n",
 			"description": "",
 			"default": "",
@@ -200540,7 +200540,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Asn Id N",
+			"displayName": "Asn ID N",
 			"name": "asn_id__n",
 			"description": "",
 			"default": "",
@@ -200925,7 +200925,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -201311,7 +201311,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -201668,7 +201668,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -202054,7 +202054,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -202411,7 +202411,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -202797,7 +202797,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -203242,7 +203242,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -203628,7 +203628,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -203985,7 +203985,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -204371,7 +204371,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -204531,7 +204531,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -204706,7 +204706,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Master Id",
+			"displayName": "Master ID",
 			"name": "master_id",
 			"description": "",
 			"default": "",
@@ -204756,7 +204756,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "region_id",
 			"description": "",
 			"default": "",
@@ -204806,7 +204806,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id",
+			"displayName": "Site Group ID",
 			"name": "site_group_id",
 			"description": "",
 			"default": "",
@@ -204856,7 +204856,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id",
+			"displayName": "Site ID",
 			"name": "site_id",
 			"description": "",
 			"default": "",
@@ -204906,7 +204906,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -204956,7 +204956,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -204981,7 +204981,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -205006,7 +205006,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -205031,7 +205031,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -205056,7 +205056,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -205856,7 +205856,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Master Id N",
+			"displayName": "Master ID N",
 			"name": "master_id__n",
 			"description": "",
 			"default": "",
@@ -205906,7 +205906,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id N",
+			"displayName": "Region ID N",
 			"name": "region_id__n",
 			"description": "",
 			"default": "",
@@ -205956,7 +205956,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Group Id N",
+			"displayName": "Site Group ID N",
 			"name": "site_group_id__n",
 			"description": "",
 			"default": "",
@@ -206006,7 +206006,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Site Id N",
+			"displayName": "Site ID N",
 			"name": "site_id__n",
 			"description": "",
 			"default": "",
@@ -206056,7 +206056,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -206369,7 +206369,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -206514,7 +206514,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -206726,7 +206726,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -206871,7 +206871,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -207083,7 +207083,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -207228,7 +207228,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -207528,7 +207528,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -207673,7 +207673,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -207885,7 +207885,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -208030,7 +208030,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -208142,7 +208142,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "",
 			"default": "",
@@ -208317,7 +208317,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id",
+			"displayName": "Tenant Group ID",
 			"name": "tenant_group_id",
 			"description": "",
 			"default": "",
@@ -208367,7 +208367,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id",
+			"displayName": "Tenant ID",
 			"name": "tenant_id",
 			"description": "",
 			"default": "",
@@ -208417,7 +208417,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "device_id",
 			"description": "",
 			"default": "",
@@ -208492,7 +208492,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id N",
+			"displayName": "ID N",
 			"name": "id__n",
 			"description": "",
 			"default": "",
@@ -208517,7 +208517,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lte",
+			"displayName": "ID Lte",
 			"name": "id__lte",
 			"description": "",
 			"default": "",
@@ -208542,7 +208542,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Lt",
+			"displayName": "ID Lt",
 			"name": "id__lt",
 			"description": "",
 			"default": "",
@@ -208567,7 +208567,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gte",
+			"displayName": "ID Gte",
 			"name": "id__gte",
 			"description": "",
 			"default": "",
@@ -208592,7 +208592,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id Gt",
+			"displayName": "ID Gt",
 			"name": "id__gt",
 			"description": "",
 			"default": "",
@@ -209167,7 +209167,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Group Id N",
+			"displayName": "Tenant Group ID N",
 			"name": "tenant_group_id__n",
 			"description": "",
 			"default": "",
@@ -209217,7 +209217,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Tenant Id N",
+			"displayName": "Tenant ID N",
 			"name": "tenant_id__n",
 			"description": "",
 			"default": "",
@@ -209267,7 +209267,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id N",
+			"displayName": "Device ID N",
 			"name": "device_id__n",
 			"description": "",
 			"default": "",
@@ -209580,7 +209580,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -209861,7 +209861,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -210073,7 +210073,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -210354,7 +210354,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -210566,7 +210566,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -210847,7 +210847,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -211147,7 +211147,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -211428,7 +211428,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -211640,7 +211640,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "number",
 			"default": 0,
@@ -211921,7 +211921,7 @@ export const dcimDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",

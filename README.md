@@ -53,17 +53,903 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Circuits | Delete circuits circuit terminations bulk delete, Get circuits circuit terminations list, Patch circuits circuit terminations bulk partial update, Post circuits circuit terminations create, Put circuits circuit terminations bulk update, Delete circuits circuit terminations delete, Get circuits circuit terminations read, Patch circuits circuit terminations partial update, Put circuits circuit terminations update, Get circuits circuit terminations paths, Delete circuits circuit types bulk delete, Get circuits circuit types list, Patch circuits circuit types bulk partial update, Post circuits circuit types create, Put circuits circuit types bulk update, Delete circuits circuit types delete, Get circuits circuit types read, Patch circuits circuit types partial update, Put circuits circuit types update, Delete circuits circuits bulk delete, Get circuits circuits list, Patch circuits circuits bulk partial update, Post circuits circuits create, Put circuits circuits bulk update, Delete circuits circuits delete, Get circuits circuits read, Patch circuits circuits partial update, Put circuits circuits update, Delete circuits provider networks bulk delete, Get circuits provider networks list, Patch circuits provider networks bulk partial update, Post circuits provider networks create, Put circuits provider networks bulk update, Delete circuits provider networks delete, Get circuits provider networks read, Patch circuits provider networks partial update, Put circuits provider networks update, Delete circuits providers bulk delete, Get circuits providers list, Patch circuits providers bulk partial update, Post circuits providers create, Put circuits providers bulk update, Delete circuits providers delete, Get circuits providers read, Patch circuits providers partial update, Put circuits providers update |
-| Dcim | Delete dcim cable terminations bulk delete, Get dcim cable terminations list, Patch dcim cable terminations bulk partial update, Post dcim cable terminations create, Put dcim cable terminations bulk update, Delete dcim cable terminations delete, Get dcim cable terminations read, Patch dcim cable terminations partial update, Put dcim cable terminations update, Delete dcim cables bulk delete, Get dcim cables list, Patch dcim cables bulk partial update, Post dcim cables create, Put dcim cables bulk update, Delete dcim cables delete, Get dcim cables read, Patch dcim cables partial update, Put dcim cables update, Get dcim connected device list, Delete dcim console port templates bulk delete, Get dcim console port templates list, Patch dcim console port templates bulk partial update, Post dcim console port templates create, Put dcim console port templates bulk update, Delete dcim console port templates delete, Get dcim console port templates read, Patch dcim console port templates partial update, Put dcim console port templates update, Delete dcim console ports bulk delete, Get dcim console ports list, Patch dcim console ports bulk partial update, Post dcim console ports create, Put dcim console ports bulk update, Delete dcim console ports delete, Get dcim console ports read, Patch dcim console ports partial update, Put dcim console ports update, Get dcim console ports trace, Delete dcim console server port templates bulk delete, Get dcim console server port templates list, Patch dcim console server port templates bulk partial update, Post dcim console server port templates create, Put dcim console server port templates bulk update, Delete dcim console server port templates delete, Get dcim console server port templates read, Patch dcim console server port templates partial update, Put dcim console server port templates update, Delete dcim console server ports bulk delete, Get dcim console server ports list, Patch dcim console server ports bulk partial update, Post dcim console server ports create, Put dcim console server ports bulk update, Delete dcim console server ports delete, Get dcim console server ports read, Patch dcim console server ports partial update, Put dcim console server ports update, Get dcim console server ports trace, Delete dcim device bay templates bulk delete, Get dcim device bay templates list, Patch dcim device bay templates bulk partial update, Post dcim device bay templates create, Put dcim device bay templates bulk update, Delete dcim device bay templates delete, Get dcim device bay templates read, Patch dcim device bay templates partial update, Put dcim device bay templates update, Delete dcim device bays bulk delete, Get dcim device bays list, Patch dcim device bays bulk partial update, Post dcim device bays create, Put dcim device bays bulk update, Delete dcim device bays delete, Get dcim device bays read, Patch dcim device bays partial update, Put dcim device bays update, Delete dcim device roles bulk delete, Get dcim device roles list, Patch dcim device roles bulk partial update, Post dcim device roles create, Put dcim device roles bulk update, Delete dcim device roles delete, Get dcim device roles read, Patch dcim device roles partial update, Put dcim device roles update, Delete dcim device types bulk delete, Get dcim device types list, Patch dcim device types bulk partial update, Post dcim device types create, Put dcim device types bulk update, Delete dcim device types delete, Get dcim device types read, Patch dcim device types partial update, Put dcim device types update, Delete dcim devices bulk delete, Get dcim devices list, Patch dcim devices bulk partial update, Post dcim devices create, Put dcim devices bulk update, Delete dcim devices delete, Get dcim devices read, Patch dcim devices partial update, Put dcim devices update, Get dcim devices napalm, Delete dcim front port templates bulk delete, Get dcim front port templates list, Patch dcim front port templates bulk partial update, Post dcim front port templates create, Put dcim front port templates bulk update, Delete dcim front port templates delete, Get dcim front port templates read, Patch dcim front port templates partial update, Put dcim front port templates update, Delete dcim front ports bulk delete, Get dcim front ports list, Patch dcim front ports bulk partial update, Post dcim front ports create, Put dcim front ports bulk update, Delete dcim front ports delete, Get dcim front ports read, Patch dcim front ports partial update, Put dcim front ports update, Get dcim front ports paths, Delete dcim interface templates bulk delete, Get dcim interface templates list, Patch dcim interface templates bulk partial update, Post dcim interface templates create, Put dcim interface templates bulk update, Delete dcim interface templates delete, Get dcim interface templates read, Patch dcim interface templates partial update, Put dcim interface templates update, Delete dcim interfaces bulk delete, Get dcim interfaces list, Patch dcim interfaces bulk partial update, Post dcim interfaces create, Put dcim interfaces bulk update, Delete dcim interfaces delete, Get dcim interfaces read, Patch dcim interfaces partial update, Put dcim interfaces update, Get dcim interfaces trace, Delete dcim inventory item roles bulk delete, Get dcim inventory item roles list, Patch dcim inventory item roles bulk partial update, Post dcim inventory item roles create, Put dcim inventory item roles bulk update, Delete dcim inventory item roles delete, Get dcim inventory item roles read, Patch dcim inventory item roles partial update, Put dcim inventory item roles update, Delete dcim inventory item templates bulk delete, Get dcim inventory item templates list, Patch dcim inventory item templates bulk partial update, Post dcim inventory item templates create, Put dcim inventory item templates bulk update, Delete dcim inventory item templates delete, Get dcim inventory item templates read, Patch dcim inventory item templates partial update, Put dcim inventory item templates update, Delete dcim inventory items bulk delete, Get dcim inventory items list, Patch dcim inventory items bulk partial update, Post dcim inventory items create, Put dcim inventory items bulk update, Delete dcim inventory items delete, Get dcim inventory items read, Patch dcim inventory items partial update, Put dcim inventory items update, Delete dcim locations bulk delete, Get dcim locations list, Patch dcim locations bulk partial update, Post dcim locations create, Put dcim locations bulk update, Delete dcim locations delete, Get dcim locations read, Patch dcim locations partial update, Put dcim locations update, Delete dcim manufacturers bulk delete, Get dcim manufacturers list, Patch dcim manufacturers bulk partial update, Post dcim manufacturers create, Put dcim manufacturers bulk update, Delete dcim manufacturers delete, Get dcim manufacturers read, Patch dcim manufacturers partial update, Put dcim manufacturers update, Delete dcim module bay templates bulk delete, Get dcim module bay templates list, Patch dcim module bay templates bulk partial update, Post dcim module bay templates create, Put dcim module bay templates bulk update, Delete dcim module bay templates delete, Get dcim module bay templates read, Patch dcim module bay templates partial update, Put dcim module bay templates update, Delete dcim module bays bulk delete, Get dcim module bays list, Patch dcim module bays bulk partial update, Post dcim module bays create, Put dcim module bays bulk update, Delete dcim module bays delete, Get dcim module bays read, Patch dcim module bays partial update, Put dcim module bays update, Delete dcim module types bulk delete, Get dcim module types list, Patch dcim module types bulk partial update, Post dcim module types create, Put dcim module types bulk update, Delete dcim module types delete, Get dcim module types read, Patch dcim module types partial update, Put dcim module types update, Delete dcim modules bulk delete, Get dcim modules list, Patch dcim modules bulk partial update, Post dcim modules create, Put dcim modules bulk update, Delete dcim modules delete, Get dcim modules read, Patch dcim modules partial update, Put dcim modules update, Delete dcim platforms bulk delete, Get dcim platforms list, Patch dcim platforms bulk partial update, Post dcim platforms create, Put dcim platforms bulk update, Delete dcim platforms delete, Get dcim platforms read, Patch dcim platforms partial update, Put dcim platforms update, Delete dcim power feeds bulk delete, Get dcim power feeds list, Patch dcim power feeds bulk partial update, Post dcim power feeds create, Put dcim power feeds bulk update, Delete dcim power feeds delete, Get dcim power feeds read, Patch dcim power feeds partial update, Put dcim power feeds update, Get dcim power feeds trace, Delete dcim power outlet templates bulk delete, Get dcim power outlet templates list, Patch dcim power outlet templates bulk partial update, Post dcim power outlet templates create, Put dcim power outlet templates bulk update, Delete dcim power outlet templates delete, Get dcim power outlet templates read, Patch dcim power outlet templates partial update, Put dcim power outlet templates update, Delete dcim power outlets bulk delete, Get dcim power outlets list, Patch dcim power outlets bulk partial update, Post dcim power outlets create, Put dcim power outlets bulk update, Delete dcim power outlets delete, Get dcim power outlets read, Patch dcim power outlets partial update, Put dcim power outlets update, Get dcim power outlets trace, Delete dcim power panels bulk delete, Get dcim power panels list, Patch dcim power panels bulk partial update, Post dcim power panels create, Put dcim power panels bulk update, Delete dcim power panels delete, Get dcim power panels read, Patch dcim power panels partial update, Put dcim power panels update, Delete dcim power port templates bulk delete, Get dcim power port templates list, Patch dcim power port templates bulk partial update, Post dcim power port templates create, Put dcim power port templates bulk update, Delete dcim power port templates delete, Get dcim power port templates read, Patch dcim power port templates partial update, Put dcim power port templates update, Delete dcim power ports bulk delete, Get dcim power ports list, Patch dcim power ports bulk partial update, Post dcim power ports create, Put dcim power ports bulk update, Delete dcim power ports delete, Get dcim power ports read, Patch dcim power ports partial update, Put dcim power ports update, Get dcim power ports trace, Delete dcim rack reservations bulk delete, Get dcim rack reservations list, Patch dcim rack reservations bulk partial update, Post dcim rack reservations create, Put dcim rack reservations bulk update, Delete dcim rack reservations delete, Get dcim rack reservations read, Patch dcim rack reservations partial update, Put dcim rack reservations update, Delete dcim rack roles bulk delete, Get dcim rack roles list, Patch dcim rack roles bulk partial update, Post dcim rack roles create, Put dcim rack roles bulk update, Delete dcim rack roles delete, Get dcim rack roles read, Patch dcim rack roles partial update, Put dcim rack roles update, Delete dcim racks bulk delete, Get dcim racks list, Patch dcim racks bulk partial update, Post dcim racks create, Put dcim racks bulk update, Delete dcim racks delete, Get dcim racks read, Patch dcim racks partial update, Put dcim racks update, Get dcim racks elevation, Delete dcim rear port templates bulk delete, Get dcim rear port templates list, Patch dcim rear port templates bulk partial update, Post dcim rear port templates create, Put dcim rear port templates bulk update, Delete dcim rear port templates delete, Get dcim rear port templates read, Patch dcim rear port templates partial update, Put dcim rear port templates update, Delete dcim rear ports bulk delete, Get dcim rear ports list, Patch dcim rear ports bulk partial update, Post dcim rear ports create, Put dcim rear ports bulk update, Delete dcim rear ports delete, Get dcim rear ports read, Patch dcim rear ports partial update, Put dcim rear ports update, Get dcim rear ports paths, Delete dcim regions bulk delete, Get dcim regions list, Patch dcim regions bulk partial update, Post dcim regions create, Put dcim regions bulk update, Delete dcim regions delete, Get dcim regions read, Patch dcim regions partial update, Put dcim regions update, Delete dcim site groups bulk delete, Get dcim site groups list, Patch dcim site groups bulk partial update, Post dcim site groups create, Put dcim site groups bulk update, Delete dcim site groups delete, Get dcim site groups read, Patch dcim site groups partial update, Put dcim site groups update, Delete dcim sites bulk delete, Get dcim sites list, Patch dcim sites bulk partial update, Post dcim sites create, Put dcim sites bulk update, Delete dcim sites delete, Get dcim sites read, Patch dcim sites partial update, Put dcim sites update, Delete dcim virtual chassis bulk delete, Get dcim virtual chassis list, Patch dcim virtual chassis bulk partial update, Post dcim virtual chassis create, Put dcim virtual chassis bulk update, Delete dcim virtual chassis delete, Get dcim virtual chassis read, Patch dcim virtual chassis partial update, Put dcim virtual chassis update, Delete dcim virtual device contexts bulk delete, Get dcim virtual device contexts list, Patch dcim virtual device contexts bulk partial update, Post dcim virtual device contexts create, Put dcim virtual device contexts bulk update, Delete dcim virtual device contexts delete, Get dcim virtual device contexts read, Patch dcim virtual device contexts partial update, Put dcim virtual device contexts update |
-| Extras | Delete extras config contexts bulk delete, Get extras config contexts list, Patch extras config contexts bulk partial update, Post extras config contexts create, Put extras config contexts bulk update, Delete extras config contexts delete, Get extras config contexts read, Patch extras config contexts partial update, Put extras config contexts update, Get extras content types list, Get extras content types read, Delete extras custom fields bulk delete, Get extras custom fields list, Patch extras custom fields bulk partial update, Post extras custom fields create, Put extras custom fields bulk update, Delete extras custom fields delete, Get extras custom fields read, Patch extras custom fields partial update, Put extras custom fields update, Delete extras custom links bulk delete, Get extras custom links list, Patch extras custom links bulk partial update, Post extras custom links create, Put extras custom links bulk update, Delete extras custom links delete, Get extras custom links read, Patch extras custom links partial update, Put extras custom links update, Delete extras export templates bulk delete, Get extras export templates list, Patch extras export templates bulk partial update, Post extras export templates create, Put extras export templates bulk update, Delete extras export templates delete, Get extras export templates read, Patch extras export templates partial update, Put extras export templates update, Delete extras image attachments bulk delete, Get extras image attachments list, Patch extras image attachments bulk partial update, Post extras image attachments create, Put extras image attachments bulk update, Delete extras image attachments delete, Get extras image attachments read, Patch extras image attachments partial update, Put extras image attachments update, Get extras job results list, Get extras job results read, Delete extras journal entries bulk delete, Get extras journal entries list, Patch extras journal entries bulk partial update, Post extras journal entries create, Put extras journal entries bulk update, Delete extras journal entries delete, Get extras journal entries read, Patch extras journal entries partial update, Put extras journal entries update, Get extras object changes list, Get extras object changes read, Get extras reports list, Get extras reports read, Post extras reports run, Delete extras saved filters bulk delete, Get extras saved filters list, Patch extras saved filters bulk partial update, Post extras saved filters create, Put extras saved filters bulk update, Delete extras saved filters delete, Get extras saved filters read, Patch extras saved filters partial update, Put extras saved filters update, Get extras scripts list, Get extras scripts read, Delete extras tags bulk delete, Get extras tags list, Patch extras tags bulk partial update, Post extras tags create, Put extras tags bulk update, Delete extras tags delete, Get extras tags read, Patch extras tags partial update, Put extras tags update, Delete extras webhooks bulk delete, Get extras webhooks list, Patch extras webhooks bulk partial update, Post extras webhooks create, Put extras webhooks bulk update, Delete extras webhooks delete, Get extras webhooks read, Patch extras webhooks partial update, Put extras webhooks update |
-| Ipam | Delete ipam aggregates bulk delete, Get ipam aggregates list, Patch ipam aggregates bulk partial update, Post ipam aggregates create, Put ipam aggregates bulk update, Delete ipam aggregates delete, Get ipam aggregates read, Patch ipam aggregates partial update, Put ipam aggregates update, Delete ipam asns bulk delete, Get ipam asns list, Patch ipam asns bulk partial update, Post ipam asns create, Put ipam asns bulk update, Delete ipam asns delete, Get ipam asns read, Patch ipam asns partial update, Put ipam asns update, Delete ipam fhrp group assignments bulk delete, Get ipam fhrp group assignments list, Patch ipam fhrp group assignments bulk partial update, Post ipam fhrp group assignments create, Put ipam fhrp group assignments bulk update, Delete ipam fhrp group assignments delete, Get ipam fhrp group assignments read, Patch ipam fhrp group assignments partial update, Put ipam fhrp group assignments update, Delete ipam fhrp groups bulk delete, Get ipam fhrp groups list, Patch ipam fhrp groups bulk partial update, Post ipam fhrp groups create, Put ipam fhrp groups bulk update, Delete ipam fhrp groups delete, Get ipam fhrp groups read, Patch ipam fhrp groups partial update, Put ipam fhrp groups update, Delete ipam ip addresses bulk delete, Get ipam ip addresses list, Patch ipam ip addresses bulk partial update, Post ipam ip addresses create, Put ipam ip addresses bulk update, Delete ipam ip addresses delete, Get ipam ip addresses read, Patch ipam ip addresses partial update, Put ipam ip addresses update, Delete ipam ip ranges bulk delete, Get ipam ip ranges list, Patch ipam ip ranges bulk partial update, Post ipam ip ranges create, Put ipam ip ranges bulk update, Delete ipam ip ranges delete, Get ipam ip ranges read, Patch ipam ip ranges partial update, Put ipam ip ranges update, Get ipam ip ranges available ips list, Post ipam ip ranges available ips create, Delete ipam l 2 vpn terminations bulk delete, Get ipam l 2 vpn terminations list, Patch ipam l 2 vpn terminations bulk partial update, Post ipam l 2 vpn terminations create, Put ipam l 2 vpn terminations bulk update, Delete ipam l 2 vpn terminations delete, Get ipam l 2 vpn terminations read, Patch ipam l 2 vpn terminations partial update, Put ipam l 2 vpn terminations update, Delete ipam l 2 vpns bulk delete, Get ipam l 2 vpns list, Patch ipam l 2 vpns bulk partial update, Post ipam l 2 vpns create, Put ipam l 2 vpns bulk update, Delete ipam l 2 vpns delete, Get ipam l 2 vpns read, Patch ipam l 2 vpns partial update, Put ipam l 2 vpns update, Delete ipam prefixes bulk delete, Get ipam prefixes list, Patch ipam prefixes bulk partial update, Post ipam prefixes create, Put ipam prefixes bulk update, Delete ipam prefixes delete, Get ipam prefixes read, Patch ipam prefixes partial update, Put ipam prefixes update, Get ipam prefixes available ips list, Post ipam prefixes available ips create, Get ipam prefixes available prefixes list, Post ipam prefixes available prefixes create, Delete ipam rirs bulk delete, Get ipam rirs list, Patch ipam rirs bulk partial update, Post ipam rirs create, Put ipam rirs bulk update, Delete ipam rirs delete, Get ipam rirs read, Patch ipam rirs partial update, Put ipam rirs update, Delete ipam roles bulk delete, Get ipam roles list, Patch ipam roles bulk partial update, Post ipam roles create, Put ipam roles bulk update, Delete ipam roles delete, Get ipam roles read, Patch ipam roles partial update, Put ipam roles update, Delete ipam route targets bulk delete, Get ipam route targets list, Patch ipam route targets bulk partial update, Post ipam route targets create, Put ipam route targets bulk update, Delete ipam route targets delete, Get ipam route targets read, Patch ipam route targets partial update, Put ipam route targets update, Delete ipam service templates bulk delete, Get ipam service templates list, Patch ipam service templates bulk partial update, Post ipam service templates create, Put ipam service templates bulk update, Delete ipam service templates delete, Get ipam service templates read, Patch ipam service templates partial update, Put ipam service templates update, Delete ipam services bulk delete, Get ipam services list, Patch ipam services bulk partial update, Post ipam services create, Put ipam services bulk update, Delete ipam services delete, Get ipam services read, Patch ipam services partial update, Put ipam services update, Delete ipam vlan groups bulk delete, Get ipam vlan groups list, Patch ipam vlan groups bulk partial update, Post ipam vlan groups create, Put ipam vlan groups bulk update, Delete ipam vlan groups delete, Get ipam vlan groups read, Patch ipam vlan groups partial update, Put ipam vlan groups update, Get ipam vlan groups available vlans list, Post ipam vlan groups available vlans create, Delete ipam vlans bulk delete, Get ipam vlans list, Patch ipam vlans bulk partial update, Post ipam vlans create, Put ipam vlans bulk update, Delete ipam vlans delete, Get ipam vlans read, Patch ipam vlans partial update, Put ipam vlans update, Delete ipam vrfs bulk delete, Get ipam vrfs list, Patch ipam vrfs bulk partial update, Post ipam vrfs create, Put ipam vrfs bulk update, Delete ipam vrfs delete, Get ipam vrfs read, Patch ipam vrfs partial update, Put ipam vrfs update |
-| Status | Get status list |
-| Tenancy | Delete tenancy contact assignments bulk delete, Get tenancy contact assignments list, Patch tenancy contact assignments bulk partial update, Post tenancy contact assignments create, Put tenancy contact assignments bulk update, Delete tenancy contact assignments delete, Get tenancy contact assignments read, Patch tenancy contact assignments partial update, Put tenancy contact assignments update, Delete tenancy contact groups bulk delete, Get tenancy contact groups list, Patch tenancy contact groups bulk partial update, Post tenancy contact groups create, Put tenancy contact groups bulk update, Delete tenancy contact groups delete, Get tenancy contact groups read, Patch tenancy contact groups partial update, Put tenancy contact groups update, Delete tenancy contact roles bulk delete, Get tenancy contact roles list, Patch tenancy contact roles bulk partial update, Post tenancy contact roles create, Put tenancy contact roles bulk update, Delete tenancy contact roles delete, Get tenancy contact roles read, Patch tenancy contact roles partial update, Put tenancy contact roles update, Delete tenancy contacts bulk delete, Get tenancy contacts list, Patch tenancy contacts bulk partial update, Post tenancy contacts create, Put tenancy contacts bulk update, Delete tenancy contacts delete, Get tenancy contacts read, Patch tenancy contacts partial update, Put tenancy contacts update, Delete tenancy tenant groups bulk delete, Get tenancy tenant groups list, Patch tenancy tenant groups bulk partial update, Post tenancy tenant groups create, Put tenancy tenant groups bulk update, Delete tenancy tenant groups delete, Get tenancy tenant groups read, Patch tenancy tenant groups partial update, Put tenancy tenant groups update, Delete tenancy tenants bulk delete, Get tenancy tenants list, Patch tenancy tenants bulk partial update, Post tenancy tenants create, Put tenancy tenants bulk update, Delete tenancy tenants delete, Get tenancy tenants read, Patch tenancy tenants partial update, Put tenancy tenants update |
-| Users | Get users config list, Delete users groups bulk delete, Get users groups list, Patch users groups bulk partial update, Post users groups create, Put users groups bulk update, Delete users groups delete, Get users groups read, Patch users groups partial update, Put users groups update, Delete users permissions bulk delete, Get users permissions list, Patch users permissions bulk partial update, Post users permissions create, Put users permissions bulk update, Delete users permissions delete, Get users permissions read, Patch users permissions partial update, Put users permissions update, Delete users tokens bulk delete, Get users tokens list, Patch users tokens bulk partial update, Post users tokens create, Put users tokens bulk update, Post users tokens provision create, Delete users tokens delete, Get users tokens read, Patch users tokens partial update, Put users tokens update, Delete users users bulk delete, Get users users list, Patch users users bulk partial update, Post users users create, Put users users bulk update, Delete users users delete, Get users users read, Patch users users partial update, Put users users update |
-| Virtualization | Delete virtualization cluster groups bulk delete, Get virtualization cluster groups list, Patch virtualization cluster groups bulk partial update, Post virtualization cluster groups create, Put virtualization cluster groups bulk update, Delete virtualization cluster groups delete, Get virtualization cluster groups read, Patch virtualization cluster groups partial update, Put virtualization cluster groups update, Delete virtualization cluster types bulk delete, Get virtualization cluster types list, Patch virtualization cluster types bulk partial update, Post virtualization cluster types create, Put virtualization cluster types bulk update, Delete virtualization cluster types delete, Get virtualization cluster types read, Patch virtualization cluster types partial update, Put virtualization cluster types update, Delete virtualization clusters bulk delete, Get virtualization clusters list, Patch virtualization clusters bulk partial update, Post virtualization clusters create, Put virtualization clusters bulk update, Delete virtualization clusters delete, Get virtualization clusters read, Patch virtualization clusters partial update, Put virtualization clusters update, Delete virtualization interfaces bulk delete, Get virtualization interfaces list, Patch virtualization interfaces bulk partial update, Post virtualization interfaces create, Put virtualization interfaces bulk update, Delete virtualization interfaces delete, Get virtualization interfaces read, Patch virtualization interfaces partial update, Put virtualization interfaces update, Delete virtualization virtual machines bulk delete, Get virtualization virtual machines list, Patch virtualization virtual machines bulk partial update, Post virtualization virtual machines create, Put virtualization virtual machines bulk update, Delete virtualization virtual machines delete, Get virtualization virtual machines read, Patch virtualization virtual machines partial update, Put virtualization virtual machines update |
-| Wireless | Delete wireless wireless lan groups bulk delete, Get wireless wireless lan groups list, Patch wireless wireless lan groups bulk partial update, Post wireless wireless lan groups create, Put wireless wireless lan groups bulk update, Delete wireless wireless lan groups delete, Get wireless wireless lan groups read, Patch wireless wireless lan groups partial update, Put wireless wireless lan groups update, Delete wireless wireless lans bulk delete, Get wireless wireless lans list, Patch wireless wireless lans bulk partial update, Post wireless wireless lans create, Put wireless wireless lans bulk update, Delete wireless wireless lans delete, Get wireless wireless lans read, Patch wireless wireless lans partial update, Put wireless wireless lans update, Delete wireless wireless links bulk delete, Get wireless wireless links list, Patch wireless wireless links bulk partial update, Post wireless wireless links create, Put wireless wireless links bulk update, Delete wireless wireless links delete, Get wireless wireless links read, Patch wireless wireless links partial update, Put wireless wireless links update |
+<details>
+<summary><b>Circuits</b> (46 operations)</summary>
+
+- Delete Circuits Circuit Terminations Bulk Delete
+- Get Circuits Circuit Terminations List
+- Patch Circuits Circuit Terminations Bulk Partial Update
+- Post Circuits Circuit Terminations Create
+- Put Circuits Circuit Terminations Bulk Update
+- Delete Circuits Circuit Terminations Delete
+- Get Circuits Circuit Terminations Read
+- Patch Circuits Circuit Terminations Partial Update
+- Put Circuits Circuit Terminations Update
+- Get Circuits Circuit Terminations Paths
+- Delete Circuits Circuit Types Bulk Delete
+- Get Circuits Circuit Types List
+- Patch Circuits Circuit Types Bulk Partial Update
+- Post Circuits Circuit Types Create
+- Put Circuits Circuit Types Bulk Update
+- Delete Circuits Circuit Types Delete
+- Get Circuits Circuit Types Read
+- Patch Circuits Circuit Types Partial Update
+- Put Circuits Circuit Types Update
+- Delete Circuits Circuits Bulk Delete
+- Get Circuits Circuits List
+- Patch Circuits Circuits Bulk Partial Update
+- Post Circuits Circuits Create
+- Put Circuits Circuits Bulk Update
+- Delete Circuits Circuits Delete
+- Get Circuits Circuits Read
+- Patch Circuits Circuits Partial Update
+- Put Circuits Circuits Update
+- Delete Circuits Provider Networks Bulk Delete
+- Get Circuits Provider Networks List
+- Patch Circuits Provider Networks Bulk Partial Update
+- Post Circuits Provider Networks Create
+- Put Circuits Provider Networks Bulk Update
+- Delete Circuits Provider Networks Delete
+- Get Circuits Provider Networks Read
+- Patch Circuits Provider Networks Partial Update
+- Put Circuits Provider Networks Update
+- Delete Circuits Providers Bulk Delete
+- Get Circuits Providers List
+- Patch Circuits Providers Bulk Partial Update
+- Post Circuits Providers Create
+- Put Circuits Providers Bulk Update
+- Delete Circuits Providers Delete
+- Get Circuits Providers Read
+- Patch Circuits Providers Partial Update
+- Put Circuits Providers Update
+
+</details>
+
+<details>
+<summary><b>Dcim</b> (380 operations)</summary>
+
+- Delete Dcim Cable Terminations Bulk Delete
+- Get Dcim Cable Terminations List
+- Patch Dcim Cable Terminations Bulk Partial Update
+- Post Dcim Cable Terminations Create
+- Put Dcim Cable Terminations Bulk Update
+- Delete Dcim Cable Terminations Delete
+- Get Dcim Cable Terminations Read
+- Patch Dcim Cable Terminations Partial Update
+- Put Dcim Cable Terminations Update
+- Delete Dcim Cables Bulk Delete
+- Get Dcim Cables List
+- Patch Dcim Cables Bulk Partial Update
+- Post Dcim Cables Create
+- Put Dcim Cables Bulk Update
+- Delete Dcim Cables Delete
+- Get Dcim Cables Read
+- Patch Dcim Cables Partial Update
+- Put Dcim Cables Update
+- Get Dcim Connected Device List
+- Delete Dcim Console Port Templates Bulk Delete
+- Get Dcim Console Port Templates List
+- Patch Dcim Console Port Templates Bulk Partial Update
+- Post Dcim Console Port Templates Create
+- Put Dcim Console Port Templates Bulk Update
+- Delete Dcim Console Port Templates Delete
+- Get Dcim Console Port Templates Read
+- Patch Dcim Console Port Templates Partial Update
+- Put Dcim Console Port Templates Update
+- Delete Dcim Console Ports Bulk Delete
+- Get Dcim Console Ports List
+- Patch Dcim Console Ports Bulk Partial Update
+- Post Dcim Console Ports Create
+- Put Dcim Console Ports Bulk Update
+- Delete Dcim Console Ports Delete
+- Get Dcim Console Ports Read
+- Patch Dcim Console Ports Partial Update
+- Put Dcim Console Ports Update
+- Get Dcim Console Ports Trace
+- Delete Dcim Console Server Port Templates Bulk Delete
+- Get Dcim Console Server Port Templates List
+- Patch Dcim Console Server Port Templates Bulk Partial Update
+- Post Dcim Console Server Port Templates Create
+- Put Dcim Console Server Port Templates Bulk Update
+- Delete Dcim Console Server Port Templates Delete
+- Get Dcim Console Server Port Templates Read
+- Patch Dcim Console Server Port Templates Partial Update
+- Put Dcim Console Server Port Templates Update
+- Delete Dcim Console Server Ports Bulk Delete
+- Get Dcim Console Server Ports List
+- Patch Dcim Console Server Ports Bulk Partial Update
+- Post Dcim Console Server Ports Create
+- Put Dcim Console Server Ports Bulk Update
+- Delete Dcim Console Server Ports Delete
+- Get Dcim Console Server Ports Read
+- Patch Dcim Console Server Ports Partial Update
+- Put Dcim Console Server Ports Update
+- Get Dcim Console Server Ports Trace
+- Delete Dcim Device Bay Templates Bulk Delete
+- Get Dcim Device Bay Templates List
+- Patch Dcim Device Bay Templates Bulk Partial Update
+- Post Dcim Device Bay Templates Create
+- Put Dcim Device Bay Templates Bulk Update
+- Delete Dcim Device Bay Templates Delete
+- Get Dcim Device Bay Templates Read
+- Patch Dcim Device Bay Templates Partial Update
+- Put Dcim Device Bay Templates Update
+- Delete Dcim Device Bays Bulk Delete
+- Get Dcim Device Bays List
+- Patch Dcim Device Bays Bulk Partial Update
+- Post Dcim Device Bays Create
+- Put Dcim Device Bays Bulk Update
+- Delete Dcim Device Bays Delete
+- Get Dcim Device Bays Read
+- Patch Dcim Device Bays Partial Update
+- Put Dcim Device Bays Update
+- Delete Dcim Device Roles Bulk Delete
+- Get Dcim Device Roles List
+- Patch Dcim Device Roles Bulk Partial Update
+- Post Dcim Device Roles Create
+- Put Dcim Device Roles Bulk Update
+- Delete Dcim Device Roles Delete
+- Get Dcim Device Roles Read
+- Patch Dcim Device Roles Partial Update
+- Put Dcim Device Roles Update
+- Delete Dcim Device Types Bulk Delete
+- Get Dcim Device Types List
+- Patch Dcim Device Types Bulk Partial Update
+- Post Dcim Device Types Create
+- Put Dcim Device Types Bulk Update
+- Delete Dcim Device Types Delete
+- Get Dcim Device Types Read
+- Patch Dcim Device Types Partial Update
+- Put Dcim Device Types Update
+- Delete Dcim Devices Bulk Delete
+- Get Dcim Devices List
+- Patch Dcim Devices Bulk Partial Update
+- Post Dcim Devices Create
+- Put Dcim Devices Bulk Update
+- Delete Dcim Devices Delete
+- Get Dcim Devices Read
+- Patch Dcim Devices Partial Update
+- Put Dcim Devices Update
+- Get Dcim Devices Napalm
+- Delete Dcim Front Port Templates Bulk Delete
+- Get Dcim Front Port Templates List
+- Patch Dcim Front Port Templates Bulk Partial Update
+- Post Dcim Front Port Templates Create
+- Put Dcim Front Port Templates Bulk Update
+- Delete Dcim Front Port Templates Delete
+- Get Dcim Front Port Templates Read
+- Patch Dcim Front Port Templates Partial Update
+- Put Dcim Front Port Templates Update
+- Delete Dcim Front Ports Bulk Delete
+- Get Dcim Front Ports List
+- Patch Dcim Front Ports Bulk Partial Update
+- Post Dcim Front Ports Create
+- Put Dcim Front Ports Bulk Update
+- Delete Dcim Front Ports Delete
+- Get Dcim Front Ports Read
+- Patch Dcim Front Ports Partial Update
+- Put Dcim Front Ports Update
+- Get Dcim Front Ports Paths
+- Delete Dcim Interface Templates Bulk Delete
+- Get Dcim Interface Templates List
+- Patch Dcim Interface Templates Bulk Partial Update
+- Post Dcim Interface Templates Create
+- Put Dcim Interface Templates Bulk Update
+- Delete Dcim Interface Templates Delete
+- Get Dcim Interface Templates Read
+- Patch Dcim Interface Templates Partial Update
+- Put Dcim Interface Templates Update
+- Delete Dcim Interfaces Bulk Delete
+- Get Dcim Interfaces List
+- Patch Dcim Interfaces Bulk Partial Update
+- Post Dcim Interfaces Create
+- Put Dcim Interfaces Bulk Update
+- Delete Dcim Interfaces Delete
+- Get Dcim Interfaces Read
+- Patch Dcim Interfaces Partial Update
+- Put Dcim Interfaces Update
+- Get Dcim Interfaces Trace
+- Delete Dcim Inventory Item Roles Bulk Delete
+- Get Dcim Inventory Item Roles List
+- Patch Dcim Inventory Item Roles Bulk Partial Update
+- Post Dcim Inventory Item Roles Create
+- Put Dcim Inventory Item Roles Bulk Update
+- Delete Dcim Inventory Item Roles Delete
+- Get Dcim Inventory Item Roles Read
+- Patch Dcim Inventory Item Roles Partial Update
+- Put Dcim Inventory Item Roles Update
+- Delete Dcim Inventory Item Templates Bulk Delete
+- Get Dcim Inventory Item Templates List
+- Patch Dcim Inventory Item Templates Bulk Partial Update
+- Post Dcim Inventory Item Templates Create
+- Put Dcim Inventory Item Templates Bulk Update
+- Delete Dcim Inventory Item Templates Delete
+- Get Dcim Inventory Item Templates Read
+- Patch Dcim Inventory Item Templates Partial Update
+- Put Dcim Inventory Item Templates Update
+- Delete Dcim Inventory Items Bulk Delete
+- Get Dcim Inventory Items List
+- Patch Dcim Inventory Items Bulk Partial Update
+- Post Dcim Inventory Items Create
+- Put Dcim Inventory Items Bulk Update
+- Delete Dcim Inventory Items Delete
+- Get Dcim Inventory Items Read
+- Patch Dcim Inventory Items Partial Update
+- Put Dcim Inventory Items Update
+- Delete Dcim Locations Bulk Delete
+- Get Dcim Locations List
+- Patch Dcim Locations Bulk Partial Update
+- Post Dcim Locations Create
+- Put Dcim Locations Bulk Update
+- Delete Dcim Locations Delete
+- Get Dcim Locations Read
+- Patch Dcim Locations Partial Update
+- Put Dcim Locations Update
+- Delete Dcim Manufacturers Bulk Delete
+- Get Dcim Manufacturers List
+- Patch Dcim Manufacturers Bulk Partial Update
+- Post Dcim Manufacturers Create
+- Put Dcim Manufacturers Bulk Update
+- Delete Dcim Manufacturers Delete
+- Get Dcim Manufacturers Read
+- Patch Dcim Manufacturers Partial Update
+- Put Dcim Manufacturers Update
+- Delete Dcim Module Bay Templates Bulk Delete
+- Get Dcim Module Bay Templates List
+- Patch Dcim Module Bay Templates Bulk Partial Update
+- Post Dcim Module Bay Templates Create
+- Put Dcim Module Bay Templates Bulk Update
+- Delete Dcim Module Bay Templates Delete
+- Get Dcim Module Bay Templates Read
+- Patch Dcim Module Bay Templates Partial Update
+- Put Dcim Module Bay Templates Update
+- Delete Dcim Module Bays Bulk Delete
+- Get Dcim Module Bays List
+- Patch Dcim Module Bays Bulk Partial Update
+- Post Dcim Module Bays Create
+- Put Dcim Module Bays Bulk Update
+- Delete Dcim Module Bays Delete
+- Get Dcim Module Bays Read
+- Patch Dcim Module Bays Partial Update
+- Put Dcim Module Bays Update
+- Delete Dcim Module Types Bulk Delete
+- Get Dcim Module Types List
+- Patch Dcim Module Types Bulk Partial Update
+- Post Dcim Module Types Create
+- Put Dcim Module Types Bulk Update
+- Delete Dcim Module Types Delete
+- Get Dcim Module Types Read
+- Patch Dcim Module Types Partial Update
+- Put Dcim Module Types Update
+- Delete Dcim Modules Bulk Delete
+- Get Dcim Modules List
+- Patch Dcim Modules Bulk Partial Update
+- Post Dcim Modules Create
+- Put Dcim Modules Bulk Update
+- Delete Dcim Modules Delete
+- Get Dcim Modules Read
+- Patch Dcim Modules Partial Update
+- Put Dcim Modules Update
+- Delete Dcim Platforms Bulk Delete
+- Get Dcim Platforms List
+- Patch Dcim Platforms Bulk Partial Update
+- Post Dcim Platforms Create
+- Put Dcim Platforms Bulk Update
+- Delete Dcim Platforms Delete
+- Get Dcim Platforms Read
+- Patch Dcim Platforms Partial Update
+- Put Dcim Platforms Update
+- Delete Dcim Power Feeds Bulk Delete
+- Get Dcim Power Feeds List
+- Patch Dcim Power Feeds Bulk Partial Update
+- Post Dcim Power Feeds Create
+- Put Dcim Power Feeds Bulk Update
+- Delete Dcim Power Feeds Delete
+- Get Dcim Power Feeds Read
+- Patch Dcim Power Feeds Partial Update
+- Put Dcim Power Feeds Update
+- Get Dcim Power Feeds Trace
+- Delete Dcim Power Outlet Templates Bulk Delete
+- Get Dcim Power Outlet Templates List
+- Patch Dcim Power Outlet Templates Bulk Partial Update
+- Post Dcim Power Outlet Templates Create
+- Put Dcim Power Outlet Templates Bulk Update
+- Delete Dcim Power Outlet Templates Delete
+- Get Dcim Power Outlet Templates Read
+- Patch Dcim Power Outlet Templates Partial Update
+- Put Dcim Power Outlet Templates Update
+- Delete Dcim Power Outlets Bulk Delete
+- Get Dcim Power Outlets List
+- Patch Dcim Power Outlets Bulk Partial Update
+- Post Dcim Power Outlets Create
+- Put Dcim Power Outlets Bulk Update
+- Delete Dcim Power Outlets Delete
+- Get Dcim Power Outlets Read
+- Patch Dcim Power Outlets Partial Update
+- Put Dcim Power Outlets Update
+- Get Dcim Power Outlets Trace
+- Delete Dcim Power Panels Bulk Delete
+- Get Dcim Power Panels List
+- Patch Dcim Power Panels Bulk Partial Update
+- Post Dcim Power Panels Create
+- Put Dcim Power Panels Bulk Update
+- Delete Dcim Power Panels Delete
+- Get Dcim Power Panels Read
+- Patch Dcim Power Panels Partial Update
+- Put Dcim Power Panels Update
+- Delete Dcim Power Port Templates Bulk Delete
+- Get Dcim Power Port Templates List
+- Patch Dcim Power Port Templates Bulk Partial Update
+- Post Dcim Power Port Templates Create
+- Put Dcim Power Port Templates Bulk Update
+- Delete Dcim Power Port Templates Delete
+- Get Dcim Power Port Templates Read
+- Patch Dcim Power Port Templates Partial Update
+- Put Dcim Power Port Templates Update
+- Delete Dcim Power Ports Bulk Delete
+- Get Dcim Power Ports List
+- Patch Dcim Power Ports Bulk Partial Update
+- Post Dcim Power Ports Create
+- Put Dcim Power Ports Bulk Update
+- Delete Dcim Power Ports Delete
+- Get Dcim Power Ports Read
+- Patch Dcim Power Ports Partial Update
+- Put Dcim Power Ports Update
+- Get Dcim Power Ports Trace
+- Delete Dcim Rack Reservations Bulk Delete
+- Get Dcim Rack Reservations List
+- Patch Dcim Rack Reservations Bulk Partial Update
+- Post Dcim Rack Reservations Create
+- Put Dcim Rack Reservations Bulk Update
+- Delete Dcim Rack Reservations Delete
+- Get Dcim Rack Reservations Read
+- Patch Dcim Rack Reservations Partial Update
+- Put Dcim Rack Reservations Update
+- Delete Dcim Rack Roles Bulk Delete
+- Get Dcim Rack Roles List
+- Patch Dcim Rack Roles Bulk Partial Update
+- Post Dcim Rack Roles Create
+- Put Dcim Rack Roles Bulk Update
+- Delete Dcim Rack Roles Delete
+- Get Dcim Rack Roles Read
+- Patch Dcim Rack Roles Partial Update
+- Put Dcim Rack Roles Update
+- Delete Dcim Racks Bulk Delete
+- Get Dcim Racks List
+- Patch Dcim Racks Bulk Partial Update
+- Post Dcim Racks Create
+- Put Dcim Racks Bulk Update
+- Delete Dcim Racks Delete
+- Get Dcim Racks Read
+- Patch Dcim Racks Partial Update
+- Put Dcim Racks Update
+- Get Dcim Racks Elevation
+- Delete Dcim Rear Port Templates Bulk Delete
+- Get Dcim Rear Port Templates List
+- Patch Dcim Rear Port Templates Bulk Partial Update
+- Post Dcim Rear Port Templates Create
+- Put Dcim Rear Port Templates Bulk Update
+- Delete Dcim Rear Port Templates Delete
+- Get Dcim Rear Port Templates Read
+- Patch Dcim Rear Port Templates Partial Update
+- Put Dcim Rear Port Templates Update
+- Delete Dcim Rear Ports Bulk Delete
+- Get Dcim Rear Ports List
+- Patch Dcim Rear Ports Bulk Partial Update
+- Post Dcim Rear Ports Create
+- Put Dcim Rear Ports Bulk Update
+- Delete Dcim Rear Ports Delete
+- Get Dcim Rear Ports Read
+- Patch Dcim Rear Ports Partial Update
+- Put Dcim Rear Ports Update
+- Get Dcim Rear Ports Paths
+- Delete Dcim Regions Bulk Delete
+- Get Dcim Regions List
+- Patch Dcim Regions Bulk Partial Update
+- Post Dcim Regions Create
+- Put Dcim Regions Bulk Update
+- Delete Dcim Regions Delete
+- Get Dcim Regions Read
+- Patch Dcim Regions Partial Update
+- Put Dcim Regions Update
+- Delete Dcim Site Groups Bulk Delete
+- Get Dcim Site Groups List
+- Patch Dcim Site Groups Bulk Partial Update
+- Post Dcim Site Groups Create
+- Put Dcim Site Groups Bulk Update
+- Delete Dcim Site Groups Delete
+- Get Dcim Site Groups Read
+- Patch Dcim Site Groups Partial Update
+- Put Dcim Site Groups Update
+- Delete Dcim Sites Bulk Delete
+- Get Dcim Sites List
+- Patch Dcim Sites Bulk Partial Update
+- Post Dcim Sites Create
+- Put Dcim Sites Bulk Update
+- Delete Dcim Sites Delete
+- Get Dcim Sites Read
+- Patch Dcim Sites Partial Update
+- Put Dcim Sites Update
+- Delete Dcim Virtual Chassis Bulk Delete
+- Get Dcim Virtual Chassis List
+- Patch Dcim Virtual Chassis Bulk Partial Update
+- Post Dcim Virtual Chassis Create
+- Put Dcim Virtual Chassis Bulk Update
+- Delete Dcim Virtual Chassis Delete
+- Get Dcim Virtual Chassis Read
+- Patch Dcim Virtual Chassis Partial Update
+- Put Dcim Virtual Chassis Update
+- Delete Dcim Virtual Device Contexts Bulk Delete
+- Get Dcim Virtual Device Contexts List
+- Patch Dcim Virtual Device Contexts Bulk Partial Update
+- Post Dcim Virtual Device Contexts Create
+- Put Dcim Virtual Device Contexts Bulk Update
+- Delete Dcim Virtual Device Contexts Delete
+- Get Dcim Virtual Device Contexts Read
+- Patch Dcim Virtual Device Contexts Partial Update
+- Put Dcim Virtual Device Contexts Update
+
+</details>
+
+<details>
+<summary><b>Extras</b> (92 operations)</summary>
+
+- Delete Extras Config Contexts Bulk Delete
+- Get Extras Config Contexts List
+- Patch Extras Config Contexts Bulk Partial Update
+- Post Extras Config Contexts Create
+- Put Extras Config Contexts Bulk Update
+- Delete Extras Config Contexts Delete
+- Get Extras Config Contexts Read
+- Patch Extras Config Contexts Partial Update
+- Put Extras Config Contexts Update
+- Get Extras Content Types List
+- Get Extras Content Types Read
+- Delete Extras Custom Fields Bulk Delete
+- Get Extras Custom Fields List
+- Patch Extras Custom Fields Bulk Partial Update
+- Post Extras Custom Fields Create
+- Put Extras Custom Fields Bulk Update
+- Delete Extras Custom Fields Delete
+- Get Extras Custom Fields Read
+- Patch Extras Custom Fields Partial Update
+- Put Extras Custom Fields Update
+- Delete Extras Custom Links Bulk Delete
+- Get Extras Custom Links List
+- Patch Extras Custom Links Bulk Partial Update
+- Post Extras Custom Links Create
+- Put Extras Custom Links Bulk Update
+- Delete Extras Custom Links Delete
+- Get Extras Custom Links Read
+- Patch Extras Custom Links Partial Update
+- Put Extras Custom Links Update
+- Delete Extras Export Templates Bulk Delete
+- Get Extras Export Templates List
+- Patch Extras Export Templates Bulk Partial Update
+- Post Extras Export Templates Create
+- Put Extras Export Templates Bulk Update
+- Delete Extras Export Templates Delete
+- Get Extras Export Templates Read
+- Patch Extras Export Templates Partial Update
+- Put Extras Export Templates Update
+- Delete Extras Image Attachments Bulk Delete
+- Get Extras Image Attachments List
+- Patch Extras Image Attachments Bulk Partial Update
+- Post Extras Image Attachments Create
+- Put Extras Image Attachments Bulk Update
+- Delete Extras Image Attachments Delete
+- Get Extras Image Attachments Read
+- Patch Extras Image Attachments Partial Update
+- Put Extras Image Attachments Update
+- Get Extras Job Results List
+- Get Extras Job Results Read
+- Delete Extras Journal Entries Bulk Delete
+- Get Extras Journal Entries List
+- Patch Extras Journal Entries Bulk Partial Update
+- Post Extras Journal Entries Create
+- Put Extras Journal Entries Bulk Update
+- Delete Extras Journal Entries Delete
+- Get Extras Journal Entries Read
+- Patch Extras Journal Entries Partial Update
+- Put Extras Journal Entries Update
+- Get Extras Object Changes List
+- Get Extras Object Changes Read
+- Get Extras Reports List
+- Get Extras Reports Read
+- Post Extras Reports Run
+- Delete Extras Saved Filters Bulk Delete
+- Get Extras Saved Filters List
+- Patch Extras Saved Filters Bulk Partial Update
+- Post Extras Saved Filters Create
+- Put Extras Saved Filters Bulk Update
+- Delete Extras Saved Filters Delete
+- Get Extras Saved Filters Read
+- Patch Extras Saved Filters Partial Update
+- Put Extras Saved Filters Update
+- Get Extras Scripts List
+- Get Extras Scripts Read
+- Delete Extras Tags Bulk Delete
+- Get Extras Tags List
+- Patch Extras Tags Bulk Partial Update
+- Post Extras Tags Create
+- Put Extras Tags Bulk Update
+- Delete Extras Tags Delete
+- Get Extras Tags Read
+- Patch Extras Tags Partial Update
+- Put Extras Tags Update
+- Delete Extras Webhooks Bulk Delete
+- Get Extras Webhooks List
+- Patch Extras Webhooks Bulk Partial Update
+- Post Extras Webhooks Create
+- Put Extras Webhooks Bulk Update
+- Delete Extras Webhooks Delete
+- Get Extras Webhooks Read
+- Patch Extras Webhooks Partial Update
+- Put Extras Webhooks Update
+
+</details>
+
+<details>
+<summary><b>Ipam</b> (161 operations)</summary>
+
+- Delete Ipam Aggregates Bulk Delete
+- Get Ipam Aggregates List
+- Patch Ipam Aggregates Bulk Partial Update
+- Post Ipam Aggregates Create
+- Put Ipam Aggregates Bulk Update
+- Delete Ipam Aggregates Delete
+- Get Ipam Aggregates Read
+- Patch Ipam Aggregates Partial Update
+- Put Ipam Aggregates Update
+- Delete Ipam Asns Bulk Delete
+- Get Ipam Asns List
+- Patch Ipam Asns Bulk Partial Update
+- Post Ipam Asns Create
+- Put Ipam Asns Bulk Update
+- Delete Ipam Asns Delete
+- Get Ipam Asns Read
+- Patch Ipam Asns Partial Update
+- Put Ipam Asns Update
+- Delete Ipam Fhrp Group Assignments Bulk Delete
+- Get Ipam Fhrp Group Assignments List
+- Patch Ipam Fhrp Group Assignments Bulk Partial Update
+- Post Ipam Fhrp Group Assignments Create
+- Put Ipam Fhrp Group Assignments Bulk Update
+- Delete Ipam Fhrp Group Assignments Delete
+- Get Ipam Fhrp Group Assignments Read
+- Patch Ipam Fhrp Group Assignments Partial Update
+- Put Ipam Fhrp Group Assignments Update
+- Delete Ipam Fhrp Groups Bulk Delete
+- Get Ipam Fhrp Groups List
+- Patch Ipam Fhrp Groups Bulk Partial Update
+- Post Ipam Fhrp Groups Create
+- Put Ipam Fhrp Groups Bulk Update
+- Delete Ipam Fhrp Groups Delete
+- Get Ipam Fhrp Groups Read
+- Patch Ipam Fhrp Groups Partial Update
+- Put Ipam Fhrp Groups Update
+- Delete Ipam Ip Addresses Bulk Delete
+- Get Ipam Ip Addresses List
+- Patch Ipam Ip Addresses Bulk Partial Update
+- Post Ipam Ip Addresses Create
+- Put Ipam Ip Addresses Bulk Update
+- Delete Ipam Ip Addresses Delete
+- Get Ipam Ip Addresses Read
+- Patch Ipam Ip Addresses Partial Update
+- Put Ipam Ip Addresses Update
+- Delete Ipam Ip Ranges Bulk Delete
+- Get Ipam Ip Ranges List
+- Patch Ipam Ip Ranges Bulk Partial Update
+- Post Ipam Ip Ranges Create
+- Put Ipam Ip Ranges Bulk Update
+- Delete Ipam Ip Ranges Delete
+- Get Ipam Ip Ranges Read
+- Patch Ipam Ip Ranges Partial Update
+- Put Ipam Ip Ranges Update
+- Get Ipam Ip Ranges Available Ips List
+- Post Ipam Ip Ranges Available Ips Create
+- Delete Ipam L 2 Vpn Terminations Bulk Delete
+- Get Ipam L 2 Vpn Terminations List
+- Patch Ipam L 2 Vpn Terminations Bulk Partial Update
+- Post Ipam L 2 Vpn Terminations Create
+- Put Ipam L 2 Vpn Terminations Bulk Update
+- Delete Ipam L 2 Vpn Terminations Delete
+- Get Ipam L 2 Vpn Terminations Read
+- Patch Ipam L 2 Vpn Terminations Partial Update
+- Put Ipam L 2 Vpn Terminations Update
+- Delete Ipam L 2 Vpns Bulk Delete
+- Get Ipam L 2 Vpns List
+- Patch Ipam L 2 Vpns Bulk Partial Update
+- Post Ipam L 2 Vpns Create
+- Put Ipam L 2 Vpns Bulk Update
+- Delete Ipam L 2 Vpns Delete
+- Get Ipam L 2 Vpns Read
+- Patch Ipam L 2 Vpns Partial Update
+- Put Ipam L 2 Vpns Update
+- Delete Ipam Prefixes Bulk Delete
+- Get Ipam Prefixes List
+- Patch Ipam Prefixes Bulk Partial Update
+- Post Ipam Prefixes Create
+- Put Ipam Prefixes Bulk Update
+- Delete Ipam Prefixes Delete
+- Get Ipam Prefixes Read
+- Patch Ipam Prefixes Partial Update
+- Put Ipam Prefixes Update
+- Get Ipam Prefixes Available Ips List
+- Post Ipam Prefixes Available Ips Create
+- Get Ipam Prefixes Available Prefixes List
+- Post Ipam Prefixes Available Prefixes Create
+- Delete Ipam Rirs Bulk Delete
+- Get Ipam Rirs List
+- Patch Ipam Rirs Bulk Partial Update
+- Post Ipam Rirs Create
+- Put Ipam Rirs Bulk Update
+- Delete Ipam Rirs Delete
+- Get Ipam Rirs Read
+- Patch Ipam Rirs Partial Update
+- Put Ipam Rirs Update
+- Delete Ipam Roles Bulk Delete
+- Get Ipam Roles List
+- Patch Ipam Roles Bulk Partial Update
+- Post Ipam Roles Create
+- Put Ipam Roles Bulk Update
+- Delete Ipam Roles Delete
+- Get Ipam Roles Read
+- Patch Ipam Roles Partial Update
+- Put Ipam Roles Update
+- Delete Ipam Route Targets Bulk Delete
+- Get Ipam Route Targets List
+- Patch Ipam Route Targets Bulk Partial Update
+- Post Ipam Route Targets Create
+- Put Ipam Route Targets Bulk Update
+- Delete Ipam Route Targets Delete
+- Get Ipam Route Targets Read
+- Patch Ipam Route Targets Partial Update
+- Put Ipam Route Targets Update
+- Delete Ipam Service Templates Bulk Delete
+- Get Ipam Service Templates List
+- Patch Ipam Service Templates Bulk Partial Update
+- Post Ipam Service Templates Create
+- Put Ipam Service Templates Bulk Update
+- Delete Ipam Service Templates Delete
+- Get Ipam Service Templates Read
+- Patch Ipam Service Templates Partial Update
+- Put Ipam Service Templates Update
+- Delete Ipam Services Bulk Delete
+- Get Ipam Services List
+- Patch Ipam Services Bulk Partial Update
+- Post Ipam Services Create
+- Put Ipam Services Bulk Update
+- Delete Ipam Services Delete
+- Get Ipam Services Read
+- Patch Ipam Services Partial Update
+- Put Ipam Services Update
+- Delete Ipam Vlan Groups Bulk Delete
+- Get Ipam Vlan Groups List
+- Patch Ipam Vlan Groups Bulk Partial Update
+- Post Ipam Vlan Groups Create
+- Put Ipam Vlan Groups Bulk Update
+- Delete Ipam Vlan Groups Delete
+- Get Ipam Vlan Groups Read
+- Patch Ipam Vlan Groups Partial Update
+- Put Ipam Vlan Groups Update
+- Get Ipam Vlan Groups Available Vlans List
+- Post Ipam Vlan Groups Available Vlans Create
+- Delete Ipam Vlans Bulk Delete
+- Get Ipam Vlans List
+- Patch Ipam Vlans Bulk Partial Update
+- Post Ipam Vlans Create
+- Put Ipam Vlans Bulk Update
+- Delete Ipam Vlans Delete
+- Get Ipam Vlans Read
+- Patch Ipam Vlans Partial Update
+- Put Ipam Vlans Update
+- Delete Ipam Vrfs Bulk Delete
+- Get Ipam Vrfs List
+- Patch Ipam Vrfs Bulk Partial Update
+- Post Ipam Vrfs Create
+- Put Ipam Vrfs Bulk Update
+- Delete Ipam Vrfs Delete
+- Get Ipam Vrfs Read
+- Patch Ipam Vrfs Partial Update
+- Put Ipam Vrfs Update
+
+</details>
+
+<details>
+<summary><b>Status</b> (1 operations)</summary>
+
+- Get Status List
+
+</details>
+
+<details>
+<summary><b>Tenancy</b> (54 operations)</summary>
+
+- Delete Tenancy Contact Assignments Bulk Delete
+- Get Tenancy Contact Assignments List
+- Patch Tenancy Contact Assignments Bulk Partial Update
+- Post Tenancy Contact Assignments Create
+- Put Tenancy Contact Assignments Bulk Update
+- Delete Tenancy Contact Assignments Delete
+- Get Tenancy Contact Assignments Read
+- Patch Tenancy Contact Assignments Partial Update
+- Put Tenancy Contact Assignments Update
+- Delete Tenancy Contact Groups Bulk Delete
+- Get Tenancy Contact Groups List
+- Patch Tenancy Contact Groups Bulk Partial Update
+- Post Tenancy Contact Groups Create
+- Put Tenancy Contact Groups Bulk Update
+- Delete Tenancy Contact Groups Delete
+- Get Tenancy Contact Groups Read
+- Patch Tenancy Contact Groups Partial Update
+- Put Tenancy Contact Groups Update
+- Delete Tenancy Contact Roles Bulk Delete
+- Get Tenancy Contact Roles List
+- Patch Tenancy Contact Roles Bulk Partial Update
+- Post Tenancy Contact Roles Create
+- Put Tenancy Contact Roles Bulk Update
+- Delete Tenancy Contact Roles Delete
+- Get Tenancy Contact Roles Read
+- Patch Tenancy Contact Roles Partial Update
+- Put Tenancy Contact Roles Update
+- Delete Tenancy Contacts Bulk Delete
+- Get Tenancy Contacts List
+- Patch Tenancy Contacts Bulk Partial Update
+- Post Tenancy Contacts Create
+- Put Tenancy Contacts Bulk Update
+- Delete Tenancy Contacts Delete
+- Get Tenancy Contacts Read
+- Patch Tenancy Contacts Partial Update
+- Put Tenancy Contacts Update
+- Delete Tenancy Tenant Groups Bulk Delete
+- Get Tenancy Tenant Groups List
+- Patch Tenancy Tenant Groups Bulk Partial Update
+- Post Tenancy Tenant Groups Create
+- Put Tenancy Tenant Groups Bulk Update
+- Delete Tenancy Tenant Groups Delete
+- Get Tenancy Tenant Groups Read
+- Patch Tenancy Tenant Groups Partial Update
+- Put Tenancy Tenant Groups Update
+- Delete Tenancy Tenants Bulk Delete
+- Get Tenancy Tenants List
+- Patch Tenancy Tenants Bulk Partial Update
+- Post Tenancy Tenants Create
+- Put Tenancy Tenants Bulk Update
+- Delete Tenancy Tenants Delete
+- Get Tenancy Tenants Read
+- Patch Tenancy Tenants Partial Update
+- Put Tenancy Tenants Update
+
+</details>
+
+<details>
+<summary><b>Users</b> (38 operations)</summary>
+
+- Get Users Config List
+- Delete Users Groups Bulk Delete
+- Get Users Groups List
+- Patch Users Groups Bulk Partial Update
+- Post Users Groups Create
+- Put Users Groups Bulk Update
+- Delete Users Groups Delete
+- Get Users Groups Read
+- Patch Users Groups Partial Update
+- Put Users Groups Update
+- Delete Users Permissions Bulk Delete
+- Get Users Permissions List
+- Patch Users Permissions Bulk Partial Update
+- Post Users Permissions Create
+- Put Users Permissions Bulk Update
+- Delete Users Permissions Delete
+- Get Users Permissions Read
+- Patch Users Permissions Partial Update
+- Put Users Permissions Update
+- Delete Users Tokens Bulk Delete
+- Get Users Tokens List
+- Patch Users Tokens Bulk Partial Update
+- Post Users Tokens Create
+- Put Users Tokens Bulk Update
+- Post Users Tokens Provision Create
+- Delete Users Tokens Delete
+- Get Users Tokens Read
+- Patch Users Tokens Partial Update
+- Put Users Tokens Update
+- Delete Users Users Bulk Delete
+- Get Users Users List
+- Patch Users Users Bulk Partial Update
+- Post Users Users Create
+- Put Users Users Bulk Update
+- Delete Users Users Delete
+- Get Users Users Read
+- Patch Users Users Partial Update
+- Put Users Users Update
+
+</details>
+
+<details>
+<summary><b>Virtualization</b> (45 operations)</summary>
+
+- Delete Virtualization Cluster Groups Bulk Delete
+- Get Virtualization Cluster Groups List
+- Patch Virtualization Cluster Groups Bulk Partial Update
+- Post Virtualization Cluster Groups Create
+- Put Virtualization Cluster Groups Bulk Update
+- Delete Virtualization Cluster Groups Delete
+- Get Virtualization Cluster Groups Read
+- Patch Virtualization Cluster Groups Partial Update
+- Put Virtualization Cluster Groups Update
+- Delete Virtualization Cluster Types Bulk Delete
+- Get Virtualization Cluster Types List
+- Patch Virtualization Cluster Types Bulk Partial Update
+- Post Virtualization Cluster Types Create
+- Put Virtualization Cluster Types Bulk Update
+- Delete Virtualization Cluster Types Delete
+- Get Virtualization Cluster Types Read
+- Patch Virtualization Cluster Types Partial Update
+- Put Virtualization Cluster Types Update
+- Delete Virtualization Clusters Bulk Delete
+- Get Virtualization Clusters List
+- Patch Virtualization Clusters Bulk Partial Update
+- Post Virtualization Clusters Create
+- Put Virtualization Clusters Bulk Update
+- Delete Virtualization Clusters Delete
+- Get Virtualization Clusters Read
+- Patch Virtualization Clusters Partial Update
+- Put Virtualization Clusters Update
+- Delete Virtualization Interfaces Bulk Delete
+- Get Virtualization Interfaces List
+- Patch Virtualization Interfaces Bulk Partial Update
+- Post Virtualization Interfaces Create
+- Put Virtualization Interfaces Bulk Update
+- Delete Virtualization Interfaces Delete
+- Get Virtualization Interfaces Read
+- Patch Virtualization Interfaces Partial Update
+- Put Virtualization Interfaces Update
+- Delete Virtualization Virtual Machines Bulk Delete
+- Get Virtualization Virtual Machines List
+- Patch Virtualization Virtual Machines Bulk Partial Update
+- Post Virtualization Virtual Machines Create
+- Put Virtualization Virtual Machines Bulk Update
+- Delete Virtualization Virtual Machines Delete
+- Get Virtualization Virtual Machines Read
+- Patch Virtualization Virtual Machines Partial Update
+- Put Virtualization Virtual Machines Update
+
+</details>
+
+<details>
+<summary><b>Wireless</b> (27 operations)</summary>
+
+- Delete Wireless Wireless Lan Groups Bulk Delete
+- Get Wireless Wireless Lan Groups List
+- Patch Wireless Wireless Lan Groups Bulk Partial Update
+- Post Wireless Wireless Lan Groups Create
+- Put Wireless Wireless Lan Groups Bulk Update
+- Delete Wireless Wireless Lan Groups Delete
+- Get Wireless Wireless Lan Groups Read
+- Patch Wireless Wireless Lan Groups Partial Update
+- Put Wireless Wireless Lan Groups Update
+- Delete Wireless Wireless Lans Bulk Delete
+- Get Wireless Wireless Lans List
+- Patch Wireless Wireless Lans Bulk Partial Update
+- Post Wireless Wireless Lans Create
+- Put Wireless Wireless Lans Bulk Update
+- Delete Wireless Wireless Lans Delete
+- Get Wireless Wireless Lans Read
+- Patch Wireless Wireless Lans Partial Update
+- Put Wireless Wireless Lans Update
+- Delete Wireless Wireless Links Bulk Delete
+- Get Wireless Wireless Links List
+- Patch Wireless Wireless Links Bulk Partial Update
+- Post Wireless Wireless Links Create
+- Put Wireless Wireless Links Bulk Update
+- Delete Wireless Wireless Links Delete
+- Get Wireless Wireless Links Read
+- Patch Wireless Wireless Links Partial Update
+- Put Wireless Wireless Links Update
+
+</details>
 
 ---
 

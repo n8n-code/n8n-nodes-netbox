@@ -8,7 +8,7 @@ import type {
 export class NetboxApi implements ICredentialType {
 	name = 'N8nDevNetboxApi';
 
-	displayName = 'netbox API';
+	displayName = 'Netbox API';
 
 	icon: Icon = { light: 'file:../nodes/Netbox/netbox.svg', dark: 'file:../nodes/Netbox/netbox.dark.svg' };
 
@@ -22,7 +22,7 @@ export class NetboxApi implements ICredentialType {
 			default: 'https://demo.netbox.dev/api',
 			required: true,
 			placeholder: 'https://demo.netbox.dev/api',
-			description: 'The base URL of your netbox API server',
+			description: 'The base URL of your Netbox API server',
 		},
 		{
 			displayName: 'API Key',
