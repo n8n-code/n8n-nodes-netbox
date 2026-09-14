@@ -10,32 +10,32 @@ import { virtualizationDescription } from './resources/virtualization';
 import { wirelessDescription } from './resources/wireless';
 
 export class Netbox implements INodeType {
-	description: INodeTypeDescription = {
-		displayName: 'Netbox',
-		name: 'N8nDevNetbox',
-		icon: { light: 'file:./netbox.svg', dark: 'file:./netbox.dark.svg' },
-		group: ['input'],
-		version: 1,
-		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'API to access NetBox',
-		defaults: { name: 'Netbox' },
-		usableAsTool: true,
-		inputs: [NodeConnectionTypes.Main],
-		outputs: [NodeConnectionTypes.Main],
-		credentials: [
-			{
-				name: 'N8nDevNetboxApi',
-				required: true,
-			},
-		],
-		requestDefaults: {
-			baseURL: '={{\$credentials.url}}',
-			headers: {
-				Accept: 'application/json',
-				'Content-Type': 'application/json',
-			},
-		},
-		properties: [
+        description: INodeTypeDescription = {
+                displayName: 'Netbox',
+                name: 'N8nDevNetbox',
+                icon: { light: 'file:./netbox.svg', dark: 'file:./netbox.dark.svg' },
+                group: ['input'],
+                version: 1,
+                subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
+                description: 'NetBox API access interface',
+                defaults: { name: 'Netbox' },
+                usableAsTool: true,
+                inputs: [NodeConnectionTypes.Main],
+                outputs: [NodeConnectionTypes.Main],
+                credentials: [
+                        {
+                                name: 'N8nDevNetboxApi',
+                                required: true,
+                        },
+                ],
+                requestDefaults: {
+                        baseURL: '={{\$credentials.url}}',
+                        headers: {
+                                Accept: 'application/json',
+                                'Content-Type': 'application/json',
+                        },
+                },
+                properties: [
 		{
 			"displayName": "Resource",
 			"name": "resource",
@@ -99,6 +99,6 @@ export class Netbox implements INodeType {
 		...usersDescription,
 		...virtualizationDescription,
 		...wirelessDescription
-		],
-	};
+                ],
+        };
 }
